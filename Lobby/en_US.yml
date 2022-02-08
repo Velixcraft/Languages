@@ -1,0 +1,12 @@
+onlyPlayers: "&cSolo los jugadores pueden usar esto."
+onlyConsole: "&cLos jugadores no pueden usar esto."
+noPermissions: "&cNo tienes permisos para hacer esto."
+blockedCommand: "&fEse comando no existe. &fUsa &b/ayuda&f para mas información."
+spawnSet: "&aEl spawn fue establecido."
+serverLoading: "&cEl servidor esta cargando."
+reloaded: "&aPlugin recargado correctamente."
+menuNotExists: "&cEl menu <menu> no existe."
+itemCooldown: "Espera <time> segundos para hacer esto otra vez."
+editMode:
+  enabled: "&aEl modo edición fue activado."
+  disabled: "&cEl modo edicicón fue desactivado."
