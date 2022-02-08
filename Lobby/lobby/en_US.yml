@@ -10,3 +10,16 @@ itemCooldown: "Wait <time> seconds to do this again."
 editMode:
   enabled: "&aEdit mode was activated."
   disabled: "&cEdit mode was disabled."
+  
+scoreboard:
+  title:
+    - "&b&lVELIXPLAY"
+  text:
+    - "&f"
+    - " &b● &e%player_name%"
+    - " &b● &fRank: &r%luckperms_prefix%"
+    - " &b● &fVCoins: &60⛁"
+    - "&f"
+     - " &b● &fLobby: &a#1"
+    - "&f"
+    - "&eplay.velixcraft.net"

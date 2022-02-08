@@ -10,3 +10,16 @@ itemCooldown: "Espera <time> segundos para hacer esto otra vez."
 editMode:
   enabled: "&aEl modo edición fue activado."
   disabled: "&cEl modo edicicón fue desactivado."
+  
+scoreboard:
+  title:
+    - "&b&lVELIXPLAY"
+  text:
+    - "&f"
+    - " &b● &e%player_name%"
+    - " &b● &fRango: &r%luckperms_prefix%"
+    - " &b● &fVCoins: &60⛁"
+    - "&f"
+     - " &b● &fVestibulo: &a#1"
+    - "&f"
+    - "&eplay.velixcraft.net"
