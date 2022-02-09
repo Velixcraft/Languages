@@ -21,6 +21,16 @@ joinMessages:
   Vip:
     message:
     - '%luckperms_prefix%&f%player_name% &ejoin.'
+    
+itemsJoin:
+  servidores:
+    displayName: '&b&lSERVIDORES &7(Click Derecho)'
+    lore:
+    - '&7'
+  lobbies:
+    displayName: '&b&lLOBBIES &7(Click Derecho)'
+    lore:
+    - '&7'
   
 scoreboard:
   title:

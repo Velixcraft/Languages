@@ -11,6 +11,16 @@ editMode:
   enabled: "&aEl modo edición fue activado."
   disabled: "&cEl modo edicicón fue desactivado."
   
+itemsJoin:
+  servidores:
+    displayName: '&b&lSERVIDORES &7(Click Derecho)'
+    lore:
+    - '&7'
+  lobbies:
+    displayName: '&b&lLOBBIES &7(Click Derecho)'
+    lore:
+    - '&7'
+  
 joinMessages:
   Owner:
     message:
