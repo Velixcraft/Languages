@@ -5,52 +5,52 @@ items:
   player:
     displayName: "%luckperms_prefix%&f%player_name%"
     lore:
-      - '&7Nivel Velix: &60'
+      - '&7Velix Level: &60'
       - '&aClan: &cN/A'
     
   premium:
-    displayName: "&fActivar modo &d&lPREMIUM"
+    displayName: "&fActivate &d&lPREMIUM &fmode"
     lore:
-      - '&8Activar modo premium'
+      - '&8Activate premium mode'
       - '&f'
-      - '&c&lAVISO &7La cuenta de minecraft deber tuya.'
-      - '&7Debes ejecutarlo justo después de registrate y no luego, ya que,'
-      - '&7pierdes estadísticas, nivel y objetos.'
+      - '&c&lWARNING &7The minecraft account should be yours.'
+      - '&7You must run right after registering and not later,'
+      - '&7as you lose stats, level and items.'
       - ''
-      - '&fEjecuta el comando &6/premium&f.'
+      - '&fRun the command &6/premium&f.'
         
   password:
-    displayName: "&fCambiar &e&lCONTRASEÑA"
+    displayName: "&fChange &e&lPASSWORD"
     lore:
-      - '&8Cambia tu contraseña'
+      - '&8Change your password'
       - '&f'
-      - '&7Cambia la contraseña de ingreso'
-      - '&7al servidor. Asegúrate de recordar'
-      - '&7la nueva contraseña que actualices.'
+      - '&7Change the login password'
+      - '&7to the server. Make sure you remember'
+      - '&7the new password you update.'
       - ''
-      - '&6/changepassword contraseña nueva-contraseña'
+      - '&6/changepassword password new-password'
   prefixchange:
-    displayName: "&fCambia de &a&lPREFIX"
+    displayName: "&fChange &a&lPREFIX"
     lore:
-      - '&8Cambia tu prefix'
+      - '&8Change your prefix'
       - '&f'
-      - '&7Escoge el prefix que'
-      - '&7más te guste.'
+      - '&7Choose the prefix that'
+      - '&7you like the most.'
       - '&f'
-      - '&fRango &e&lMASTER&f o superior.'
+      - '&fRank &e&lMASTER&f or higher.'
       - ''
-      - '&e¡Click para seleccionar!'
+      - '&e¡Click to select!'
   shop:
-    displayName: "&fTienda del &e&lSERVIDOR"
+    displayName: "&e&lSERVIDOR &fShop"
     lore:
-      - '&8Tienda oficial'
+      - '&8Official store'
       - '&f'
-      - '&7¿Deseas comprar rango?'
-      - '&7Si necesitas más ventajas o'
-      - '&fcomprar rangos o regalar a tu'
-      - '&famigo. Aquí podrás.'
+      - '&7Do you want to buy rank?'
+      - '&7If you need more perks or'
+      - '&fbuy ranks or gift to your'
+      - '&ffriend. Here you can.'
       - ''
-      - '&e¡Click para ver!'
+      - '&e¡Click to see!'
     
   # PANELES
   panel0:

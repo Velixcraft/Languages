@@ -163,23 +163,7 @@ items:
       - '&8&l * &fJugadores: &d%math_{bungee_Thepit}%'
       - '&7'
       - '&b¡Click para conectarte!'
-        
-  kbffa:
-    displayName: "&a&lKNOCKBACK FFA &7[v1.0]"
-    lore:
-      - '&8Competitivo'
-      - '&7'
-      - '&f¿Listo para superar todos los retos?'
-      - '&fUn servidor lleno de variedades de modos'
-      - '&fde parkour, donde cada vez se va complicando'
-      - '&fel modo ¿Serás capaz de lograrlo?'
-      - '&7'
-      - '&a&lINFORMACIÓN:'
-      - '&8&l * &fTipo: &a&lPVP'
-      - '&8&l * &fVersión: &e1.8.x'
-      - '&8&l * &fJugadores: &d%math_{bungee_Kbffa}%'
-      - '&7'
-      - '&b¡Click para conectarte!'
+       
   close:
     displayName: "&cCerrar menú"
     lore:
