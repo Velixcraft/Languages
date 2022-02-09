@@ -24,11 +24,11 @@ joinMessages:
     
 itemsJoin:
   servidores:
-    displayName: '&b&lSERVIDORES &7(Click Derecho)'
+    displayName: '&b&lSERVERS &7(Right Click)'
     lore:
     - '&7'
   lobbies:
-    displayName: '&b&lLOBBIES &7(Click Derecho)'
+    displayName: '&b&lLOBBIES &7(Right Click)'
     lore:
     - '&7'
   
