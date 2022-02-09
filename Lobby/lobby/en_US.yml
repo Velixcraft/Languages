@@ -11,6 +11,17 @@ editMode:
   enabled: "&aEdit mode was activated."
   disabled: "&cEdit mode was disabled."
   
+joinMessages:
+  Owner:
+    message:
+    - '%luckperms_prefix%&6%player_name% &ejoin.'
+  Staff:
+    message:
+    - '%luckperms_prefix%&f%player_name% &ejoin.'
+  Vip:
+    message:
+    - '%luckperms_prefix%&f%player_name% &ejoin.'
+  
 scoreboard:
   title:
     - "&b&lVELIXPLAY"

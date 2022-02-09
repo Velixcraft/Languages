@@ -1,0 +1,29 @@
+settings:
+  title: "&3&l» &8Lobbies &3&l«"
+
+items:
+  lobby1:
+    displayName: "&aLobby &l#1"
+    lore:
+      - '&7'
+      - '&f Conectados: &e%bungee_Lobby-1% jugador(es).'
+      - '&f Estado: &a&lDISPONIBLE'
+      - '&f'
+      - '&c¡Ya estas conectado!'
+  lobby2:
+    displayName: "&aLobby &l#2"
+    lore:
+      - '&7'
+      - '&f Conectados: &e%bungee_Lobby-2% jugador(es).'
+      - '&f Estado: &a&lDISPONIBLE'
+      - '&f'
+      - '&a¡Click para conectarte!'
+        
+  lobby3:
+    displayName: "&aLobby &l#3"
+    lore:
+      - '&7'
+      - '&f Conectados: &e%bungee_Lobby-3% jugador(es).'
+      - '&f Estado: &a&lDISPONIBLE'
+      - '&f'
+      - '&a¡Click para conectarte!'

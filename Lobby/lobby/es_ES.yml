@@ -11,6 +11,17 @@ editMode:
   enabled: "&aEl modo edición fue activado."
   disabled: "&cEl modo edicicón fue desactivado."
   
+joinMessages:
+  Owner:
+    message:
+    - '%luckperms_prefix%&6%player_name% &eentró al servidor.'
+  Staff:
+    message:
+    - '%luckperms_prefix%&f%player_name% &eentró al servidor.'
+  Vip:
+    message:
+    - '%luckperms_prefix%&f%player_name% &eentró al servidor.'
+  
 scoreboard:
   title:
     - "&b&lVELIXPLAY"
