@@ -6,24 +6,24 @@ items:
     displayName: "&aLobby &l#1"
     lore:
       - '&7'
-      - '&f Conectados: &e%bungee_Lobby-1% jugador(es).'
-      - '&f Estado: &a&lDISPONIBLE'
+      - '&f Online: &e%bungee_Lobby-1% jugador(es).'
+      - '&f State: &a&lAVAILABLE'
       - '&f'
-      - '&c¡Ya estas conectado!'
+      - '&c¡Already connected!'
   lobby2:
     displayName: "&aLobby &l#2"
     lore:
       - '&7'
-      - '&f Conectados: &e%bungee_Lobby-2% jugador(es).'
-      - '&f Estado: &a&lDISPONIBLE'
+      - '&f Online: &e%bungee_Lobby-2% jugador(es).'
+      - '&f State: &a&lAVAILABLE'
       - '&f'
-      - '&a¡Click para conectarte!'
+      - '&a¡Click to connect!'
         
   lobby3:
     displayName: "&aLobby &l#3"
     lore:
       - '&7'
-      - '&f Conectados: &e%bungee_Lobby-3% jugador(es).'
-      - '&f Estado: &a&lDISPONIBLE'
+      - '&f Online: &e%bungee_Lobby-3% jugador(es).'
+      - '&f State: &a&lAVAILABLE'
       - '&f'
-      - '&a¡Click para conectarte!'
+      - '&a¡Click to connect!'
