@@ -41,7 +41,7 @@ items:
       - ''
       - '&e¡Click to select!'
   shop:
-    displayName: "&e&lSERVIDOR &fShop"
+    displayName: "&e&lSERVER &fShop"
     lore:
       - '&8Official store'
       - '&f'
