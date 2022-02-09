@@ -165,13 +165,13 @@ items:
       - '&b¡Click to connect!'
        
   close:
-    displayName: "&cCerrar menú"
+    displayName: "&cClose menu"
     lore:
-      - '&7Click para cerrar'
+      - '&7Click to close'
   profile:
-    displayName: "&aTu perfil"
+    displayName: "&aYour profile"
     lore:
-      - '&7Click para ver tu perfil.'
+      - '&7Click to see your profile.'
   panel0:
     displayName: '&8'
   panel1:
