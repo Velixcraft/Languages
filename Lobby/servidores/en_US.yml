@@ -1,10 +1,5 @@
 settings:
   title: "&3&l» &8Modalidades &3&l«"
-  rows: 6
-
-updater:
-  enabled: true
-  interval: 2
 
 items:
   bedwars:
