@@ -1,25 +1,25 @@
 settings:
-  title: "&3&l» &8Modalidades &3&l«"
+  title: "&3&l» &8Modalities &3&l«"
 
 items:
   bedwars:
     displayName: "&a&lBEDWARS &7[v2.0]"
     lore:
-      - '&8Combate, Competitivo'
+      - '&8Combat, Competitive'
       - '&7'
-      - '&f¿Listo para romper camas?'
-      - '&fUn combate aéreo dónde te'
-      - '&fencuentras con oponentes,'
-      - '&fcuentas con un generador para'
-      - '&fadquirir herramientas y lograr'
+      - '&fReady to break beds?'
+      - '&fAn aerial combat where you'
+      - '&fmeet opponents,'
+      - '&fyou have a generator to'
+      - '&facquire tools and achieve'
       - '&facabar con tus rivales.'
       - '&7'
-      - '&a&lINFORMACIÓN:'
-      - '&8&l * &fTipo: &c&lPOPULAR'
-      - '&8&l * &fVersión: &e1.8.x'
-      - '&8&l * &fJugadores: &d%math_{bungee_LobbyBW-1}+{bungee_LobbyBW-2}%'
+      - '&a&lINFORMATION:'
+      - '&8&l * &fType: &c&lPOPULAR'
+      - '&8&l * &fVersion: &e1.8.x'
+      - '&8&l * &fPlayers: &d%math_{bungee_LobbyBW-1}+{bungee_LobbyBW-2}%'
       - '&7'
-      - '&b¡Click para conectarte!'
+      - '&b¡Click to connect!'
   skywars:
     displayName: "&a&lSKYWARS &7[v2.0]"
     lore:
