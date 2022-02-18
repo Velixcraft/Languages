@@ -1,0 +1,509 @@
+noPermissions: "&cNo tienes permisos para hacer esto."
+reloaded: "&aEl plugin fue recargado."
+cantDoThat: "&cNo puedes hacer eso."
+onlyPlayers: "&cSolo los jugadores pueden usar este comando."
+onlyConsole: "&cSolo se puede ejecutar desde la consola."
+noDuration: "&cNo especificaste un tiempo valido."
+playerNotOnline: "&cEl jugador no esta conectado."
+noSavedPlayer: "&cEl jugador no se ha conectado al servidor, por lo que no fue posible obtener sus datos."
+insufficientArgPlayer: "&cDebes escribir el jugador."
+cannotYourself: "&cNo puedes hacer eso a ti mismo."
+error: "&cOcurrio un error. Contacta con un administrador."
+mustBeNumber: "&cDebe ser un numero."
+inCooldown: "&cEstas en cooldown, espera {time} segundos."
+invalidTime: "&cTiempo no valido."
+yes: "Si"
+no: "No"
+
+message:
+  usage: "&cUsa: /msg <jugador> <mensaje>"
+  cantSend: "&cNo puedes enviar mensajes a este jugador."
+  format:
+    player: "&aEscribiste a {player}: {msg}"
+    other: "&a{player} te escribió: {msg}"
+
+reply:
+  usage: "&cUsa: /r <mensaje>"
+  cantSend: "&cNo puedes enviar mensajes a este jugador."
+  noPlayer: "&cNo hablaste con nadie ultimamente."
+  format:
+    player: "&a{player} te escribió: &f{msg}"
+    other: "&aEscribiste a {player}: &f{msg}"
+
+socialspy:
+  enabled: "&aActivaste socialspy."
+  disabled: "&aDesactivaste socialspy"
+  msg: "&8[&a{player} -> {other}&8] : &f{msg}"
+
+blockCommand:
+  notify: "&c{player} [{group}] intento usar el comando {command}"
+  message: "&cEste comando esta bloqueado."
+
+live:
+  usage: "&cUsa: /live <url>"
+  invalidUrl: "&cEl enlace no es valido."
+  clickText: "&a&l¡CLICK PARA VER!"
+  hover: "&a&l¡CLICK PARA VER!"
+  inCooldown: "&cEstas en cooldown, por favor espere &4{time}&c."
+  plataformNotFound: "Desconocida"
+  playing:
+    - "&7&m---------------------------------"
+    - "&b{player} &eesta en directo jugando &a&l{server} en {plataform}"
+    - "&8&l» &a&l{live}"
+    - "&7&m---------------------------------"
+  live:
+    - "&7&m---------------------------------"
+    - "&b{player} &eesta en directo en {plataform}"
+    - "&8&l» &a&l{live}"
+    - "&7&m---------------------------------"
+
+chatcontrol:
+  badword: "&cNo puedes decir malas palabras."
+
+stats:
+  usage: "&cUsa: /tops [page/info] <id>"
+  invalidId: "&cEsa id no es valida."
+  none: "&cN/A"
+  dataInfo:
+    - "&7Información:"
+    - " ID: {id}"
+    - " UUID: &a{uuid}"
+    - " Nombre: &a{name}"
+    - ""
+    - " IP: &a{ip}"
+    - " Pais: &a{country} ({countryCode})"
+    - ""
+    - " Fecha de ingreso: &a{joinDate}"
+    - " Fecha de salida: &a{quitDate}"
+    - " Tiempo conectado: &a{time}"
+  info:
+    - "Pais de donde mas se conectan: &a{country} | {countryCount}"
+    - "Persona que mas se estuvo conectado: &a{user} | {userTime}"
+    - "Lista:"
+    - "{list}"
+  list: " &8[{id}] &a {player} &8| &fConectado: {time} &8| &fPais: {country}"
+
+helpop:
+  usage: "&cUsa: /helpop <message>"
+  send: "&aTu mensaje fue enviado al staff."
+  staff: "&2[Helpop] &7({server}) &a{player}&8: &7{message}"
+
+reports:
+  info:
+    - "{counter} reportes | Lista de reportes:"
+    - "{reports}"
+  reports: "&aReportado por: {reportedBy} | Fecha: {date} | Razón: {reason}"
+
+report:
+  usage: "&cUsa: /report <jugador> <razón>"
+  reported: "&cGracias por reportar. Pronto el staff atendera tu reporte."
+  playerEvade: "&cEste jugador evade este comando."
+  invalidReason: "&cRazón no valida. Prueba a usar: &aKillaura, Reach, Speed"
+  staff:
+    report:
+      - "&c&lNUEVO REPORTE"
+      - ""
+      - "&aReportado: {reported}"
+      - "&aReportado por: {reportby}"
+      - "&aRazón: {reason}"
+      - ""
+      - "&aServidor: {server}"
+      - ""
+      - "{click}"
+    click:
+      text: "&e&lClick para ir al servidor."
+      hover: "&aClick para ir al servidor."
+
+friend:
+  usage: "&cUsa: /friend {usage}"
+  help:
+    - "&e&lFRIENDS"
+    - ""
+    - "&e/friend add <player> &a- Envia una peticion de amistad."
+    - "&e/friend remove <player> &a- Quita a un jugador de tu lista de amigos"
+    - "&e/friend accept <player> &a- Acepta la petición de amistad del jugador."
+    - "&e/friend deny <player> &a- Rechaza la petición de amistad del jugador."
+    - "&e/friend list &a- Mira la lista de tus amigos."
+  requestJoin: "Tienes solicitud de amistad de: {players}"
+  notYourFriend: "&cNo es tu amigo."
+  join: "&fTu amigo &a{player} &fse conectó."
+  quit: "&fTu amigo &a{player} &fse desconecto."
+  listFormat:
+    - "&eTus amigos:"
+    - "{list}"
+  noFriends: "&cNo tienes amigos :("
+  listOnline: "&8- &a{player} &7| &a{server}"
+  listOffline: "&8- &c{player}"
+  requestSent: "&aTu solicitud de amistad fue enviada a {player}."
+  request:
+    - "&8&m----------------------"
+    - "&a{player} &ete envio petición de amistad."
+    - ""
+    - "{click}"
+    - "&8&m----------------------"
+  accept: "&a[Aceptar]"
+  acceptHover: "&fClick para aceptar."
+  separator: " "
+  deny: "&c[Rechazar]"
+  denyHover: "&fClick para rechazar."
+  removed:
+    player: "&c{player} fue eliminado de tu lista de amigos."
+    other: "&c{player} te elimino de su lista de amigos."
+  noRequestPlayer: "&cNo tienes solicitud de este jugador."
+  acceptRequest:
+    player: "&aAceptaste la solicitud de {player}."
+    other: "&a{player} aceptó tu solicitud."
+  rejectRequest:
+    player: "&aRechazaste la solicitud de {player}."
+    other: "&a{player} rechazo tu solicitud."
+  disableRequest: "&cEste jugador no acepta solicitudes."
+  disabledJump: "&cEl jugador desactivo este ajuste."
+  hoverSettings: "&aDa click para cambiar esta configuración."
+  settings:
+    info:
+      separator: "&8&m-----------------------------------------"
+      request:
+        enabled: "&aPuedes recibir &fsolicitudes. Para cambiar esto usa &6/friend settings request"
+        disabled: "&cNo puedes recibir&f solicitudes. Para cambiar esto usa &6/friend settings request"
+      jump:
+        enabled: "&fTus amigos &apueden &fir a tu servidor. Para cambiar esto usa &6/friend settings jump"
+        disabled: "&fTus amigos &cno pueden &fir a tu servidor. Para cambiar esto usa &6/friend settings jump"
+      notify:
+        enabled: "&aRecibirás&f noticaciones cuando un amigo tuyo entre. Para cambiar esto usa &6/friend settings notify"
+        disabled: "&cNo recibirás&f noticaciones cuando un amigo tuyo entre. Para cambiar esto usa &6/friend settings notify"
+      messages:
+        all: "&aTodos &fpueden enviarte mensajes privados. Para cambiar esto usa &6/friend settings message"
+        friends: "&fSolo &eAmigos&f pueden enviarte mensajes privados. Para cambiar esto usa &6/friend settings message"
+        none: "&7Nadie &fpuede enviarte mensajes privados. Para cambiar esto usa &6/friend settings message"
+      clan:
+        all: "&aTodos &fpueden invitarte a su clan. Para cambiar esto usa &6/friend settings clan"
+        friends: "&fSolo &eAmigos&f pueden invitarte a su clan. Para cambiar esto usa &6/friend settings clan"
+        none: "&7Nadie &fpuede invitarte a su clan. Para cambiar esto usa &6/friend settings clan"
+      invite:
+        all: "&aTodos &fpueden invitarte a su party. Para cambiar esto usa &6/friend settings invite"
+        friends: "&fSolo &eAmigos&f pueden invitarte a su party. Para cambiar esto usa &6/friend settings invite"
+        none: "&7Nadie &fpuede invitarte a su party. Para cambiar esto usa &6/friend settings invite"
+      status:
+        online: "&fTu estado es &aconectado&f. Para cambiar esto usa &6/friend settings status"
+        offline: "&fTu estado es &cdesconectado&f. Para cambiar esto usa &6/friend settings status"
+
+    toggle:
+      request:
+        enabled: "&aAhora recibiras solicitudes de otros jugadores."
+        disabled: "&cYa no recibiras solicitudes de otros jugadores."
+      jump:
+        enabled: "&aAhora tus amigos podran ir al servidor que estas conectado."
+        disabled: "&cTus amigos ya no podran ir al servidor que estas conectado."
+      notify:
+        enabled: "&aRecibirás notificaciones cuando tus amigos se conecten."
+        disabled: "&cYa no recibirás notificaciones cuando tus amigos se conecten."
+      messages:
+        all: "&aAhora todos puedes enviarte mensaje privado."
+        friends: "&aAhora solo tus amigos te pueden enviar mensajes privados."
+        none: "&aAhora nadie puede enviarte mensajes privados."
+      clan:
+        all: "&aAhora todos puedes invitarte a su clan."
+        friends: "&aAhora solo tus amigos te pueden invitar a su clan."
+        none: "&aAhora nadie puede invitarte a su clan."
+      invite:
+        all: "&aAhora todos puedes invitarte a su party."
+        friends: "&aAhora solo tus amigos te pueden invitar a su party."
+        none: "&aAhora nadie puede invitarte a su party."
+      status:
+        online: "&aAhora todos tu estado es &2conectado&a."
+        offline: "&aAhora tu estado es &cdesconectado&a."
+
+clan:
+  usage: "&cUsa: /clan {usage}"
+  help:
+    - "&e&lCLAN"
+    - ""
+    - "&e/clan settings <ajuste> <valor> - Ajuste del clan."
+    - "&e/clan invite <jugador> - Invitar jugador."
+    - "&e/clan mute <jugador/todos> <hora> - Mutear"
+  join: "&e{player} se conecto."
+  quit: "&c{player} se desconecto."
+  members:
+    - "&6Nombre del clan: {clanName}"
+    - ""
+    - "&eMiembros:"
+    - "{members}"
+    - ""
+    - "&fTotal de miembros: &e{total}"
+    - "&fMiembros conectados: &e{online}"
+  none: "&cNadie."
+  rankInfo:
+    - "&8&m------------ &e{rank} &8&m-----------"
+    - "{members}"
+  cannotInvite: "&cNo puedes invitar a este jugador."
+  clanExists: "&cUn clan con este nombre ya existe."
+  invalidCharacters: "&cEl nombre tiene caracteres no validos."
+  noPerm: "&cNo tienes permiso para hacer esto."
+  noClan: "&cNo estas en ningun clan."
+  notInClan: "&cEl jugador no esta en tu clan."
+  playerInClan: "&cEl jugador ya esta en un clan."
+  disband: "&cEl clan fue disuelto."
+  created: "&aTu clan fue creado."
+  deleted: "Tu clan fue eliminado."
+  clanNotExists: "&cEse clan no existe."
+  noInvited: "&cNo fuiste invitado a este clan."
+  chatDisabled: "&cEl chat del clan esta desactivado."
+  clanNameLength: "&cEl nombre del clan debe ser mayor a 3 caracteres."
+  alreadyInClan: "&cYa estas en un clan."
+  inviteAccept: "&eEntraste al clan {clan}."
+  inviteDeny: "&cRechazaste la invitación al clan {clan}."
+  invite: "&9[Clan] &a{inviter} &einvitó a &a{player} &eal clan."
+  joined: "&a{player} entro al clan."
+  leave: "&c{player} se salio del clan."
+  newMaster: "&cEl dueño fue cedido a {player}."
+  cantLeave: "&cEres el dueño del clan no puedes salirte."
+  accept: "&a[Aceptar]"
+  acceptHover: "&fClick para aceptar."
+  rankChange: "&fAhora &e{player} &fes &e{name}&f."
+  rankNotExists: "&cEse rango no existe."
+  clanNameChange: "&fAhora el nombre del clan es &e{clan}&f."
+  separator: " "
+  deny: "&c[Rechazar]"
+  denyHover: "&fClick para rechazar."
+  actionRank: "&cNo puedes hacer esto por que el jugador es rango mayor al tuyo o es imune."
+  unmute:
+    unmute: "&e{other} &ffue desmuteado por &e{player}&f."
+  mute:
+    noMuted: "&cEl jugador no esta muteado."
+    mutedAll: "&a{count} jugadores fueron muteados."
+    player: "&aMuteaste a {player} por {time} horas."
+    alreadyMuted: "&cEl jugador ya fue muteado."
+    mute: "&e{player} &fmuteo a &e{other}&f."
+  requestInvite:
+    - "&8&m----------------------"
+    - "&a{player} &ete invitó a su clan {clan}."
+    - ""
+    - "{click}"
+    - "&8&m----------------------"
+  requestSent: "&aEnviaste una solicitud al clan {clan}."
+  alreadySentRequest: "&cYa enviaste una solicitud."
+  clanDeleted: "&cEl clan ha sido eliminado."
+  maxLength: "&cEl texto no debe ser mayor a {length} palabras."
+  kickPlayer: "&e{target} &afue pateado por &e{player}&a."
+  chat:
+    enabled: "&aTu chat fue activado."
+    disabled: "&cTu chat fue desactivado."
+  settings:
+    enabled: "&aActivado"
+    disabled: "&cDesactivado."
+    show:
+      enabled: "&aEl clan ahora saldra en la lista de clanes."
+      disabled: "&cEl clan ya no aparecera en la lista de clanes."
+    description: "&aLa descripción fue cambiada."
+    discord: "&aEl discord fue cambiado."
+    text:
+      - "&8&m-----------------------------------------"
+      - "&eTus ajustes:"
+      - ""
+      - "&eSHOW (Valor: {show}) &8- &fAlterna entre si quieres que tu clan se muestre en la lista publica o no."
+      - "&eDESCRIPTION (Valor: {description}) &8- &fEstablece la descripción del clan."
+      - "&eDISCORD (Valor: {discord}) &8- &fEstablece el discord del clan."
+      - ""
+      - "&cUsa: /clan settings <key> <value>"
+      - "&8&m-----------------------------------------"
+
+
+party:
+  usage: "&cUsa: /party {usage}"
+  help:
+    - "&e&lPARTY"
+    - ""
+    - "&e/party join <player> &a- Entra en una party."
+    - "&e/party accept <player> &a- Acepta una invitación."
+    - "&e/party deny <player> &a- Rechaza una invitación."
+    - "&e/party invite <player> &a- Invita a alguien a tu party, si no tienes party la creará."
+    - "&e/party kick <player> &a- Expulsa a un jugador de la party."
+    - "&e/party chat [message] &a- Chatea en tu party."
+    - "&e/party warp &a- Lleva los miembros de tu party a tu servidor."
+    - "&e/party status &a- Cambia el estado de la party ya sea publica o privada."
+  partyPrivate: "&cLa party esta privada."
+  alreadyInParty: "&cYa estas en una party."
+  targetNoParty: "&cEl jugador no tiene party."
+  cannotInvite: "&cNo puedes invitar a este jugador."
+  noParty: "&cNo estas en ninguna party."
+  kickPlayer: "&e{target} &afue pateado por &e{player}&a."
+  notInParty: "&cEl jugador no esta en la party."
+  newLeader: "&e{player} &aahora es el lider de la party."
+  created: "&aLa party fue creada."
+  disband: "&cLa party fue eliminada."
+  inviteExpired: "&cLa invitación de {player} expiró."
+  playerInParty: "&cEl jugador ya esta en un party."
+  noInvite: "&cNo tienes invitación a esta party."
+  cantLeave: "&cNo puedes salirte, eres el lider, debes dar el lider a otra persona."
+  join: "&a{player} &eentro en la party."
+  leave: "&a{player} &ese fue de la party."
+  status:
+    publicName: "&aPublico"
+    privateName: "&cPrivado"
+    public: "&aLa party ahora es publica."
+    private: "&aLa party ahora es privada."
+  partyChat:
+    enabled: "&aEl chat de party fue activado."
+    disabled: "&cEl chat de party fue desactivado."
+  inviteAccept:
+    player: "&aAceptaste la invitacion de {player}"
+    inviter: "&a{player} acepto tu invitación."
+  inviteDeny:
+    player: "&cRechazaste la invitacion de {player}"
+    inviter: "&a{player} rechazo tu invitación."
+  invite: "&9[Party] &a{inviter} &einvitó a &a{player} &ea la party."
+  accept: "&a[Aceptar]"
+  acceptHover: "&fClick para aceptar."
+  separator: " "
+  deny: "&c[Rechazar]"
+  denyHover: "&fClick para rechazar."
+  requestInvite:
+    - "&8&m----------------------"
+    - "&a{player} &ete invitó a su party."
+    - "&7Tienes 30 segundos para aceptar o rechazar."
+    - ""
+    - "{click}"
+    - "&8&m----------------------"
+  listFormat: "&8- &a{member} &7| &a{rank}"
+  noPlayers: "&cN/A"
+  list:
+    - "&7Lider: &a{leader}"
+    - "&7Estado: {status}"
+    - "&7Lista de jugadores:"
+    - "{list}"
+
+sanctions:
+  permanent: "Permanente"
+  defaultBanReason: "Romper las reglas"
+  defaultMuteReason: "Spam"
+  defaultUnbanReason: "No se ha especificado razón."
+  defaultUnmuteReason: "No se ha especificado razón."
+  reasonEmpty: "No se ha dado un razón."
+  bannedMessageBase:
+    - "&cFuiste baneado del servidor."
+    - ""
+    - "&fFecha: {dateStart}"
+    - "&fBaneado por: {executor}"
+    - "&fRazón: {reason}"
+  bannedMessage:
+    - "{base}"
+    - "Expira en: {duration}"
+    - "{appealMessage}"
+  bannedMessagePermanent:
+    - "{base}"
+    - "Fuiste baneado permanentemente"
+    - "{appealMessage}"
+  appealMessage: "Apela tu sanción en discord.gg/invite"
+  muted:
+    - "&cFuiste muteado! ({duration} restante)"
+    - "&cRazón: {reason}"
+  mutedPermanent:
+    - "&cFuiste muteado permanentemente."
+    - "&cRazón: {reason}"
+  warnedJoin: "&cTienes nuevas advertencias."
+  warnedJoinEntry:
+    - "&4 - Advertido por &c{executor}&4 : &c{reason}"
+    - "&4(&chace {timeAgo}&4)"
+  noReason: "&cNo pusiste una razón."
+  ban:
+    usage: "&cUsa: /{command} <jugador> [time] [razón]"
+    broadcastBan: "&a{executor} &fbaneo a &a{banned} &fpor &a{reason}"
+    broadcastTempBan: "&a{executor} &fbaneo temporalmente a &a{banned}&f por &a{duration} &fpor &a{reason}&f."
+    broadcastIpban: "&a{executor} &fbaneo de IP a &a{banned} &fpor &a{reason}"
+    broadcastTempIpban: "&a{executor} &fbaneo temporalmente de IP a &a{banned}&f por &a{duration} &fpor &a{reason}&f."
+    previousBanRemoved: "&cEl baneo previo de {player} fue removido."
+    previousBanExisting: "&c{banned} ya esta baneado, y no tienes permisos para reemplazar baneos existentes."
+    unbanFail: "&cEl jugador no esta baneado."
+    noOverride: "&cEl jugador ya esta baneado."
+    exempt: "&cEl jugador no puede ser baneado."
+    unbanUsage: "&cUsa: /unban <jugador>"
+    broadcastUnban: "&a{executor} &fdesbaneo a &a{banned} &fpor &a{reason}"
+  mute:
+    usage: "&cUsa: /{command} <jugador/ip> [time] [razón]"
+    broadcastMute: "&a{executor} &fmuteo a &a{muted}&f por &a{reason}"
+    broadcastIpmute: "&a{executor} &fmuteo de IP a &a{muted}&f por &a{reason}"
+    broadcastTempmute: "&a{executor} &fmuteo temporalmente a &a{muted}&f por &a{duration}&f por &a{reason}"
+    broadcastTempIpmute: "&a{executor} &fmuteo temporalmente de IP a &a{muted}&f por &a{duration}&f por &a{reason}"
+    message:
+      - "&4Fuiste muteado por {executor} por {reason}."
+      - "&cEste muteo expira en {duration}."
+    messagePermanent:
+      - "&4Fuiste muteado permanentemente por {executor} por {reason}."
+      - "&cEste muteo no expirara."
+    unmuteFail: "&cEl jugador no esta muteado."
+    noOverride: "&cEl jugador ya esta muteado."
+    previousMuteRemoved: "&aEl muteo previo de {muted} fue removido."
+    previousMuteExisting: "&c{muted} ya esta muteado y no tienes permiso para reemplazar muteos existentes."
+    exempt: "&cNo puedes mutear a {player}."
+    unmuteUsage: "&cUsa: /unmute <jugador/ip>"
+    broadcastUnmute: "&a{executor} &fdesmuteo a &a{muted}&f por &a{reason}."
+  warn:
+    usage: "&cUsa: /warn <jugador> <razón>"
+    broadcast: "&a{executor}&f advirtio a &a{warned} &fpor &a{reason}"
+    message:
+      - "&4Fuiste advertido por {executor} por {reason}"
+      - "&4Este advertencias expira en {duration}"
+    listEntry: "&f - Advertido por {executor} | {reason}"
+    unwarn: "&aLa ultima advertencia de {player} fue removida."
+    unwarnFail: "&cEl jugador no tiene advertencias."
+    exempt: "&cNo puedes advertir a {player}"
+    unwarnUsage: "&cUsa: /unwarn <player>"
+    broadcastUnwarn: "&a{executor} &fquito la advertencia a &a{warned}"
+  kick:
+    usage: "&cUsa: /kick <jugador> [razón]"
+    message: "Fuiste kickeado por {executor} : {reason}"
+    messageNoReason: "Fuiste kickeado por {executor}"
+    response: "&a{player} fue kickeado."
+    broadcast: "&a{player} &ffue kickeado por &a{executor}&f por &a{reason}&f."
+    broadcastNoReason: "&a{player}&f fue kickeado por &a{executor}&f."
+    exempt: "&cEste jugador no puede ser kickeado."
+  history:
+    usage: "cUsa: /history <jugador> [entries]"
+    maxEntries: "&cNo debes exceder mas de 10 entradas."
+    noHistory: "&cEste jugador no tiene historial."
+    start: "&aHistorial de {target}."
+    banEntry:
+      - "&a [&fhace {timeAgo}&a]"
+      - "&f {name} fue &cbaneado&f por {executor}: &a{reason}"
+    muteEntry:
+      - "&a [&fhace {timeAgo}&a]"
+      - "&f {name} fue &7muteado&f por {executor}: &a{reason}"
+    warnEntry:
+      - "&a [&fhace {timeAgo}&a]"
+      - "&f {name} fue &6advertido&f por {executor}: &a{reason}"
+    kickEntry:
+      - "&a [&fhace {timeAgo}&a]"
+      - "&f {name} fue &ekickeado&f por {executor}: &a{reason}"
+    unbanEntry:
+      - ""
+      - "&f {name} fue &7desbaneado&f por {executor}: &a{reason}"
+    unmuteEntry:
+      - ""
+      - "&f {name} fue &7desmuteado&f por {executor}: &a{reason}"
+    unwarnEntry:
+      - ""
+      - "&f {name} fue &7deswarneado&f por {executor}: &a{reason}"
+  checkban:
+    usage: "&cUsa: /checkban <jugador>"
+    noBan: "&cEste jugador no esta baneado."
+    banned:
+      - "&aJugador {target} esta baneado:"
+      - "&aBaneado por: {executor}"
+      - "&aRazón: {reason}"
+      - "&aBaneado el: {dateStart}"
+      - "&aBaneado hasta: {dateEnd} ({duration})"
+      - "&aIPBan: {ipban}, permanente: {permanent}"
+  checkmute:
+    usage: "&cUsa: /checkmute <jugador>"
+    noMute: "&cEste jugador no esta muteado."
+    muted:
+      - "&aJugador {target} esta muteado:"
+      - "&aMuteado por: {executor}"
+      - "&aRazón: {reason}"
+      - "&aMuteado el: {dateStart}"
+      - "&aMuteado hasta: {dateEnd} ({duration})"
+      - "&aIPMute: {ipban}, permanente: {permanent}"
+  warnings:
+    usage: "&cUsa: /warnings <player>"
+    start: "&fAdvertencias activas de {player}"
+    noWarns: "&cEste jugador no tiene advertencias."
