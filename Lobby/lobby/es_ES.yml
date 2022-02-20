@@ -34,7 +34,7 @@ joinMessages:
   
 scoreboard:
   title:
-    - "&b&lVELIXPLAY"
+    - "&b&lVELIXPLAY &8(&7%server_online%&8)"
   text:
     - "&f"
     - " &b● &e%player_name%"
