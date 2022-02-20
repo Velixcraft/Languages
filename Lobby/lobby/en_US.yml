@@ -34,7 +34,7 @@ itemsJoin:
   
 scoreboard:
   title:
-    - "&b&lVELIXPLAY &8(&7%server_online%&8)"
+    - "&b&lVELIXPLAY"
   text:
     - "&f"
     - " &b● &e%player_name%"
