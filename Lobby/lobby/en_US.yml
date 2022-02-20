@@ -40,5 +40,6 @@ scoreboard:
     - " &b● &e%player_name%"
     - " &b● &fRank: &r%luckperms_prefix%"
     - " &b● &fVCoins: &60⛁"
+    - " &b● &fLobby: &a#1"
     - "&f"
     - "&emc.velixplay.net"
