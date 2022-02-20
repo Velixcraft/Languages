@@ -34,13 +34,13 @@ itemsJoin:
   
 scoreboard:
   title:
-    - "&b&lVELIXPLAY"
+    - "&b&lVELIXPLAY &8(&7%server_online%&8)"
   text:
     - "&f"
     - " &b● &e%player_name%"
-    - " &b● &fRango: &r%luckperms_prefix%"
+    - " &b● &fRank: &r%luckperms_prefix%"
     - " &b● &fVCoins: &60⛁"
     - "&f"
-    - " &b● &fVestibulo: &a#1"
+    - " &b● &fLobby: &a#1"
     - "&f"
     - "&emc.velixplay.net"
