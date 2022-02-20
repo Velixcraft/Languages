@@ -38,9 +38,9 @@ scoreboard:
   text:
     - "&f"
     - " &b● &e%player_name%"
-    - " &b● &fRank: &r%luckperms_prefix%"
+    - " &b● &fRango: &r%luckperms_prefix%"
     - " &b● &fVCoins: &60⛁"
     - "&f"
-    - "&b &fLobby: &a#1"
+    - " &b● &fVestibulo: &a#1"
     - "&f"
     - "&emc.velixplay.net"
