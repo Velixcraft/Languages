@@ -507,3 +507,22 @@ sanctions:
     usage: "&cUsa: /warnings <player>"
     start: "&fAdvertencias activas de {player}"
     noWarns: "&cEste jugador no tiene advertencias."
+announcements:
+  discord:
+    message:
+      - ""
+      - "                &9&lDISCORD DEL SERVIDOR"
+      - " "
+      - "     &fReporta cualquier error en nuestro discord."
+      - "   &fPuedes compartir y jugar con toda la comunidad"
+      - "           &fdel servidor aquí: &b/discord"
+      - ""
+  tienda:
+    message:
+      - ""
+      - "           &a&lRANGOS EN LA TIENDA"
+      - ""
+      - "  &e{player} &frecuerda que puedes adquirir"
+      - "    &frango en la tienda oficial del servidor."
+      - "  &fCómpralo aquí: &b/tienda"
+      - ""
