@@ -186,29 +186,29 @@ friend:
 
     toggle:
       request:
-        enabled: "&aAhora recibiras solicitudes de otros jugadores."
-        disabled: "&cYa no recibiras solicitudes de otros jugadores."
+        enabled: "&aAhora recibirás solicitudes de otros jugadores."
+        disabled: "&cYa no recibirás solicitudes de otros jugadores."
       jump:
-        enabled: "&aAhora tus amigos podran ir al servidor que estas conectado."
-        disabled: "&cTus amigos ya no podran ir al servidor que estas conectado."
+        enabled: "&aAhora tus amigos podran ir al servidor que estás conectado."
+        disabled: "&cTus amigos ya no podran ir al servidor que estás conectado."
       notify:
         enabled: "&aRecibirás notificaciones cuando tus amigos se conecten."
         disabled: "&cYa no recibirás notificaciones cuando tus amigos se conecten."
       messages:
-        all: "&aAhora todos puedes enviarte mensaje privado."
+        all: "&aAhora todos pueden enviarte mensaje privado."
         friends: "&aAhora solo tus amigos te pueden enviar mensajes privados."
-        none: "&aAhora nadie puede enviarte mensajes privados."
+        none: "&cAhora nadie puede enviarte mensajes privados."
       clan:
         all: "&aAhora todos puedes invitarte a su clan."
         friends: "&aAhora solo tus amigos te pueden invitar a su clan."
-        none: "&aAhora nadie puede invitarte a su clan."
+        none: "&cAhora nadie puede invitarte a su clan."
       invite:
-        all: "&aAhora todos puedes invitarte a su party."
+        all: "&aAhora todos pueden invitarte a su party."
         friends: "&aAhora solo tus amigos te pueden invitar a su party."
-        none: "&aAhora nadie puede invitarte a su party."
+        none: "&cAhora nadie puede invitarte a su party."
       status:
-        online: "&aAhora todos tu estado es &2conectado&a."
-        offline: "&aAhora tu estado es &cdesconectado&a."
+        online: "&7Ahora todos tu estado es &aconectado&7."
+        offline: "&7Ahora tu estado es &cdesconectado&7."
 
 clan:
   usage: "&cUsa: /clan {usage}"
