@@ -1,59 +1,59 @@
-noPermissions: "&cNo tienes permisos para hacer esto."
+noPermissions: "&cError 404 &fEse comando no existe. Usa &e/ayuda &fpara más información."
 reloaded: "&aEl plugin fue recargado."
 cantDoThat: "&cNo puedes hacer eso."
 onlyPlayers: "&cSolo los jugadores pueden usar este comando."
 onlyConsole: "&cSolo se puede ejecutar desde la consola."
 noDuration: "&cNo especificaste un tiempo valido."
-playerNotOnline: "&cEl jugador no esta conectado."
+playerNotOnline: "&cEl jugador no está conectado."
 noSavedPlayer: "&cEl jugador no se ha conectado al servidor, por lo que no fue posible obtener sus datos."
 insufficientArgPlayer: "&cDebes escribir el jugador."
 cannotYourself: "&cNo puedes hacer eso a ti mismo."
 error: "&cOcurrio un error. Contacta con un administrador."
-mustBeNumber: "&cDebe ser un numero."
-inCooldown: "&cEstas en cooldown, espera {time} segundos."
+mustBeNumber: "&cDebe ser un número."
+inCooldown: "&cEstás en cooldown, espera {time} segundos."
 invalidTime: "&cTiempo no valido."
 yes: "Si"
 no: "No"
 
 message:
-  usage: "&cUsa: /msg <jugador> <mensaje>"
+  usage: "&cUso correcto: &7/msg <jugador> <msg>"
   cantSend: "&cNo puedes enviar mensajes a este jugador."
   format:
-    player: "&aEscribiste a {player}: {msg}"
-    other: "&a{player} te escribió: {msg}"
+    player: "&8[&6&lMSG&8] &7Tú: &6{player}&e: {msg}"
+    other: "&8[&6&lMSG&8] &6{player} &6➥ &eTú&e: {msg}"
 
 reply:
   usage: "&cUsa: /r <mensaje>"
   cantSend: "&cNo puedes enviar mensajes a este jugador."
   noPlayer: "&cNo hablaste con nadie ultimamente."
   format:
-    player: "&a{player} te escribió: &f{msg}"
-    other: "&aEscribiste a {player}: &f{msg}"
+    player: "&8[&6&lMSG&8] &6{player} &6➥ &eTú&e: {msg}"
+    other: "&8[&6&lMSG&8] &7Tú: &6{player}&e: {msg}"
 
 socialspy:
-  enabled: "&aActivaste socialspy."
-  disabled: "&aDesactivaste socialspy"
-  msg: "&8[&a{player} -> {other}&8] : &f{msg}"
+  enabled: "&a¡Modo espía del chat activado!"
+  disabled: "&c¡Modo espía del chat desactivado!"
+  msg: "&8&lEspía &8|&7 {player} ➥ {other}: &9{msg}"
 
 blockCommand:
   notify: "&c{player} [{group}] intento usar el comando {command}"
-  message: "&cEste comando esta bloqueado."
+  message: "&cNo tienes acceso a este comando."
 
 live:
-  usage: "&cUsa: /live <url>"
+  usage: "&cUso correcto: /live <url>"
   invalidUrl: "&cEl enlace no es valido."
   clickText: "&a&l¡CLICK PARA VER!"
   hover: "&a&l¡CLICK PARA VER!"
-  inCooldown: "&cEstas en cooldown, por favor espere &4{time}&c."
-  plataformNotFound: "Desconocida"
+  inCooldown: "&cEstás en cooldown, por favor espere &4{time}&c."
+  plataformNotFound: "Stream"
   playing:
     - "&7&m---------------------------------"
-    - "&b{player} &eesta en directo jugando &a&l{server} en {plataform}"
+    - "&b{player} &eestá en directo jugando &a&l{server} en {plataform}"
     - "&8&l» &a&l{live}"
     - "&7&m---------------------------------"
   live:
     - "&7&m---------------------------------"
-    - "&b{player} &eesta en directo en {plataform}"
+    - "&b{player} &eestá en directo en {plataform}"
     - "&8&l» &a&l{live}"
     - "&7&m---------------------------------"
 
@@ -61,8 +61,8 @@ chatcontrol:
   badword: "&cNo puedes decir malas palabras."
 
 stats:
-  usage: "&cUsa: /tops [page/info] <id>"
-  invalidId: "&cEsa id no es valida."
+  usage: "&cUso correcto: /tops [page/info] <id>"
+  invalidId: "&cEsa ID no es valida."
   none: "&cN/A"
   dataInfo:
     - "&7Información:"
@@ -78,15 +78,15 @@ stats:
     - " Tiempo conectado: &a{time}"
   info:
     - "Pais de donde mas se conectan: &a{country} | {countryCount}"
-    - "Persona que mas se estuvo conectado: &a{user} | {userTime}"
+    - "Persona que más se estuvo conectado: &a{user} | {userTime}"
     - "Lista:"
     - "{list}"
   list: " &8[{id}] &a {player} &8| &fConectado: {time} &8| &fPais: {country}"
 
 helpop:
-  usage: "&cUsa: /helpop <message>"
-  send: "&aTu mensaje fue enviado al staff."
-  staff: "&2[Helpop] &7({server}) &a{player}&8: &7{message}"
+  usage: "&cUso correcto:&7 /helpop <msg>"
+  send: "&a¡Espera a que un staff conteste tu mensaje!"
+  staff: "&c&l¡AYUDA! &7({server}) &6{player} &8»&e {message}"
 
 reports:
   info:
@@ -95,19 +95,19 @@ reports:
   reports: "&aReportado por: {reportedBy} | Fecha: {date} | Razón: {reason}"
 
 report:
-  usage: "&cUsa: /report <jugador> <razón>"
-  reported: "&cGracias por reportar. Pronto el staff atendera tu reporte."
-  playerEvade: "&cEste jugador evade este comando."
-  invalidReason: "&cRazón no valida. Prueba a usar: &aKillaura, Reach, Speed"
+  usage: "&cUso correcto: /report <jugador> <razón>"
+  reported: "&a&l¡GRACIAS! &e{reported} &aha sido reportado."
+  playerEvade: "&cNo puedes reportar al equipo del staff."
+  invalidReason: "&cRazones permitidas: &7Trampas, Lenguaje, Cross-Teaming, Fly, Reach, Speed, KillAura, AntiKB, Auto-Clicker, Grief, Estafa, TpaKill"
   staff:
     report:
-      - "&c&lNUEVO REPORTE"
+      - "&c&l¡NUEVO REPORTE!"
       - ""
-      - "&aReportado: {reported}"
-      - "&aReportado por: {reportby}"
-      - "&aRazón: {reason}"
+      - "&fReportado: &6{reported}"
+      - "&fReportado por: &a{reportby}"
+      - "&fRazón: &e{reason}"
       - ""
-      - "&aServidor: {server}"
+      - "&fServidor: &e{server}"
       - ""
       - "{click}"
     click:
@@ -115,40 +115,37 @@ report:
       hover: "&aClick para ir al servidor."
 
 friend:
-  usage: "&cUsa: /friend {usage}"
+  usage: "&cUso correcto: /friend {usage}"
   help:
     - "&e&lFRIENDS"
     - ""
-    - "&e/friend add <player> &a- Envia una peticion de amistad."
-    - "&e/friend remove <player> &a- Quita a un jugador de tu lista de amigos"
-    - "&e/friend accept <player> &a- Acepta la petición de amistad del jugador."
-    - "&e/friend deny <player> &a- Rechaza la petición de amistad del jugador."
-    - "&e/friend list &a- Mira la lista de tus amigos."
-  requestJoin: "Tienes solicitud de amistad de: {players}"
+    - "&8/&5friend add <jugador> &8- &7Envia una petición de amistad."
+    - "&8/&5friend remove <jugador> &8- &7Quita a un jugador de tu lista de amigos"
+    - "&8/&5friend accept <jugador> &8- &7Acepta la petición de amistad del jugador."
+    - "&8/&5friend deny <jugador> &8- &7Rechaza la petición de amistad del jugador."
+    - "&8/&5friend list &8- &7Mira la lista de tus amigos."
+  requestJoin: "&7Tienes solicitud de amistad de: {players}"
   notYourFriend: "&cNo es tu amigo."
-  join: "&fTu amigo &a{player} &fse conectó."
-  quit: "&fTu amigo &a{player} &fse desconecto."
+  join: "&7Tu amigo &e{player} &7se &aconectó ahora."
+  quit: "&7Tu amigo &e{player} &7se &cse desconectó."
   listFormat:
-    - "&eTus amigos:"
+    - "&7Estos son tus amigos:"
     - "{list}"
-  noFriends: "&cNo tienes amigos :("
+  noFriends: "&cNo tienes amigos, eres feo :("
   listOnline: "&8- &a{player} &7| &a{server}"
   listOffline: "&8- &c{player}"
-  requestSent: "&aTu solicitud de amistad fue enviada a {player}."
+  requestSent: "&7El jugador &e{player} &7ha recibido una solicitud de amistad tuya."
   request:
-    - "&8&m----------------------"
-    - "&a{player} &ete envio petición de amistad."
-    - ""
+    - "&7Recibiste una solicitud de amistad de &e{player}"
     - "{click}"
-    - "&8&m----------------------"
   accept: "&a[Aceptar]"
   acceptHover: "&fClick para aceptar."
   separator: " "
   deny: "&c[Rechazar]"
   denyHover: "&fClick para rechazar."
   removed:
-    player: "&c{player} fue eliminado de tu lista de amigos."
-    other: "&c{player} te elimino de su lista de amigos."
+    player: "&7Se ha eliminado a &e{player} &7de tu lista de amigos."
+    other: "&e{player} &7te ha eliminado de tu lista de amigos."
   noRequestPlayer: "&cNo tienes solicitud de este jugador."
   acceptRequest:
     player: "&aAceptaste la solicitud de {player}."
