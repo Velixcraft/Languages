@@ -160,29 +160,29 @@ friend:
     info:
       separator: "&8&m-----------------------------------------"
       request:
-        enabled: "&aPuedes recibir &fsolicitudes. Para cambiar esto usa &6/friend settings request"
-        disabled: "&cNo puedes recibir&f solicitudes. Para cambiar esto usa &6/friend settings request"
+        enabled: "&aPuedes recibir solicitudes. &7Para cambiar esto usa &6/friend settings request"
+        disabled: "&cNo puedes recibir solicitudes. &7Para cambiar esto usa &6/friend settings request"
       jump:
-        enabled: "&fTus amigos &apueden &fir a tu servidor. Para cambiar esto usa &6/friend settings jump"
-        disabled: "&fTus amigos &cno pueden &fir a tu servidor. Para cambiar esto usa &6/friend settings jump"
+        enabled: "&7Tus amigos &apueden ir a tu servidor&7. Para cambiar esto usa &6/friend settings jump"
+        disabled: "&7Tus amigos &cno pueden ir a tu servidor&7. Para cambiar esto usa &6/friend settings jump"
       notify:
-        enabled: "&aRecibirás&f noticaciones cuando un amigo tuyo entre. Para cambiar esto usa &6/friend settings notify"
-        disabled: "&cNo recibirás&f noticaciones cuando un amigo tuyo entre. Para cambiar esto usa &6/friend settings notify"
+        enabled: "&aRecibirás&7 noticaciones cuando un amigo tuyo entre. Para cambiar esto usa &6/friend settings notify"
+        disabled: "&cNo recibirás&7 noticaciones cuando un amigo tuyo entre. Para cambiar esto usa &6/friend settings notify"
       messages:
-        all: "&aTodos &fpueden enviarte mensajes privados. Para cambiar esto usa &6/friend settings message"
-        friends: "&fSolo &eAmigos&f pueden enviarte mensajes privados. Para cambiar esto usa &6/friend settings message"
-        none: "&7Nadie &fpuede enviarte mensajes privados. Para cambiar esto usa &6/friend settings message"
+        all: "&aTodos &7pueden enviarte mensajes privados. Para cambiar esto usa &6/friend settings message"
+        friends: "&eSolo Amigos&7 pueden enviarte mensajes privados. Para cambiar esto usa &6/friend settings message"
+        none: "&cNadie &7puede enviarte mensajes privados. Para cambiar esto usa &6/friend settings message"
       clan:
-        all: "&aTodos &fpueden invitarte a su clan. Para cambiar esto usa &6/friend settings clan"
-        friends: "&fSolo &eAmigos&f pueden invitarte a su clan. Para cambiar esto usa &6/friend settings clan"
-        none: "&7Nadie &fpuede invitarte a su clan. Para cambiar esto usa &6/friend settings clan"
+        all: "&aTodos &7pueden invitarte a su clan. Para cambiar esto usa &6/friend settings clan"
+        friends: "&eSolo Amigos&7 pueden invitarte a su clan. Para cambiar esto usa &6/friend settings clan"
+        none: "&cNadie &7puede invitarte a su clan. Para cambiar esto usa &6/friend settings clan"
       invite:
-        all: "&aTodos &fpueden invitarte a su party. Para cambiar esto usa &6/friend settings invite"
-        friends: "&fSolo &eAmigos&f pueden invitarte a su party. Para cambiar esto usa &6/friend settings invite"
-        none: "&7Nadie &fpuede invitarte a su party. Para cambiar esto usa &6/friend settings invite"
+        all: "&aTodos &7pueden invitarte a su party. Para cambiar esto usa &6/friend settings invite"
+        friends: "&eSolo Amigos&7 pueden invitarte a su party. Para cambiar esto usa &6/friend settings invite"
+        none: "&cNadie &7puede invitarte a su party. Para cambiar esto usa &6/friend settings invite"
       status:
-        online: "&fTu estado es &aconectado&f. Para cambiar esto usa &6/friend settings status"
-        offline: "&fTu estado es &cdesconectado&f. Para cambiar esto usa &6/friend settings status"
+        online: "&7Tu estado es &aconectado&7. Para cambiar esto usa &6/friend settings status"
+        offline: "&7Tu estado es &cdesconectado&7. Para cambiar esto usa &6/friend settings status"
 
     toggle:
       request:
