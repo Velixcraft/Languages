@@ -148,13 +148,13 @@ friend:
     other: "&e{player} &7te ha eliminado de tu lista de amigos."
   noRequestPlayer: "&cNo tienes solicitud de este jugador."
   acceptRequest:
-    player: "&aAceptaste la solicitud de {player}."
-    other: "&a{player} aceptó tu solicitud."
+    player: "&7Tú y &e{player} &7ahora son amigos."
+    other: "&e{player} &7y tú ahora son amigos."
   rejectRequest:
-    player: "&aRechazaste la solicitud de {player}."
-    other: "&a{player} rechazo tu solicitud."
+    player: "&7Has rechazado la solicitud de amistad de &e{player}."
+    other: "&e{player} &7rechazó tu solicitud."
   disableRequest: "&cEste jugador no acepta solicitudes."
-  disabledJump: "&cEl jugador desactivo este ajuste."
+  disabledJump: "&cEl jugador desactivó este ajuste."
   hoverSettings: "&aDa click para cambiar esta configuración."
   settings:
     info:
