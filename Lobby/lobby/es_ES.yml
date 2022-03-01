@@ -24,13 +24,13 @@ itemsJoin:
 joinMessages:
   Owner:
     message:
-    - '%luckperms_prefix%&6%player_name% &eentró al servidor.'
+    - '%luckperms_prefix%&6%player_name% &eingresó al servidor.'
   Staff:
     message:
-    - '%luckperms_prefix%&f%player_name% &eentró al servidor.'
+    - '%luckperms_prefix%&f%player_name% &eingresó al servidor.'
   Vip:
     message:
-    - '%luckperms_prefix%&f%player_name% &eentró al servidor.'
+    - '%luckperms_prefix%&a%player_name% &eingresó al servidor.'
   
 scoreboard:
   title:
