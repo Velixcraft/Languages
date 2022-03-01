@@ -453,7 +453,7 @@ sanctions:
     broadcast: "&a{executor}&f advirtió a &a{warned} &fpor &a{reason}"
     message:
       - "&7&8&m------------------------------------"
-      - "&7       &a&l¡TIENES UNA ADVERTENCIA!"
+      - "&7       &c&l¡TIENES UNA ADVERTENCIA!"
       - "&fStaff: &e{executor}"
       - "&fRazón: &e{reason}"
       - "&fExpira: &e{duration}"
