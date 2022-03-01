@@ -401,10 +401,18 @@ sanctions:
     - "&8&m------------------------------------"
     - "&7       &c&l¡FUISTE SILENCIADO!"
     - ""
+    - "&fStaff: &e{executor}"
+    - "&fTiempo: &e{duration}"
+    - "&fRazón: &e{reason}"
+    - "&8&m------------------------------------"
   mutedPermanent:
     - "&8&m------------------------------------"
     - "&7       &c&l¡FUISTE SILENCIADO!"
     - ""
+    - "&fStaff: &e{executor}"
+    - "&fTiempo: &e{duration}"
+    - "&fRazón: &e{reason}"
+    - "&8&m------------------------------------"
   warnedJoin: "&cTienes nuevas advertencias."
   warnedJoinEntry:
     - "&4 - Advertido por &c{executor}&4 : &c{reason}"
