@@ -215,6 +215,7 @@ clan:
   help:
     - "&2&lCLAN"
     - ""
+    - "&8/&bclan create <nombre> &8- &7Crea tu clan."
     - "&8/&bclan settings <ajuste> <valor> &8- &7Ajuste del clan."
     - "&8/&bclan invite <jugador> &8- &7Invitar jugador."
     - "&8/&bclan mute <jugador/todos> <hora> &8- &7Mutear un jugador o a todo el clan."
