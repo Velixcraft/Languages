@@ -348,7 +348,7 @@ party:
   inviteDeny:
     player: "&cRechazaste la invitación de {player}"
     inviter: "&a{player} rechazó tu invitación."
-  invite: "&9[Party] &a{inviter} &einvitó a &a{player} &ea la party."
+  invite: "&e&lPARTY &a{inviter} &einvitó a &a{player} &ea la party."
   accept: "&a[Aceptar]"
   acceptHover: "&fClick para aceptar."
   separator: " "
