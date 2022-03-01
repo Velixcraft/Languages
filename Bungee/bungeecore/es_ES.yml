@@ -220,7 +220,7 @@ clan:
     - "&8/&bclan invite <jugador> &8- &7Invitar jugador."
     - "&8/&bclan mute <jugador/todos> <hora> &8- &7Mutear un jugador o a todo el clan."
   join: "&2&lCLAN &8&l» &7El miembro &e{player} &7del clan &ase conectó&7."
-  quit: "&2&lCLAN &8&l» &7El miembro &e{player} &7del clan &ce desconectó&7."
+  quit: "&2&lCLAN &8&l» &7El miembro &e{player} &7del clan &cse desconectó&7."
   members:
     - "&6Nombre del clan: {clanName}"
     - ""
