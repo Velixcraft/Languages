@@ -438,15 +438,9 @@ sanctions:
     broadcastTempmute: "&a{executor} &fmuteó temporalmente a &a{muted}&f por &a{duration}&f por &a{reason}"
     broadcastTempIpmute: "&a{executor} &fmuteó temporalmente de IP a &a{muted}&f por &a{duration}&f por &a{reason}"
     message:
-      - "&fStaff: &e{executor}"
-      - "&fTiempo: &e{duration}"
-      - "&fRazón: &e{reason}"
-      - "&8&m------------------------------------"
+      - "&cHas sido silenciado/a. Duración: &e{duration}"
     messagePermanent:
-      - "&fStaff: &e{executor}"
-      - "&fTiempo: &ePermanente"
-      - "&fRazón: &e{reason}"
-      - "&8&m------------------------------------"
+      - "&cHas sido silenciado/a permanentemente."
     unmuteFail: "&cEl jugador no está muteado."
     noOverride: "&cEl jugador ya está muteado."
     previousMuteRemoved: "&aEl muteo previo de {muted} fue removido."
