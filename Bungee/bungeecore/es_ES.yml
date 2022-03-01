@@ -456,7 +456,6 @@ sanctions:
       - "&7       &c&l¡TIENES UNA ADVERTENCIA!"
       - "&fStaff: &e{executor}"
       - "&fRazón: &e{reason}"
-      - "&fExpira: &e{duration}"
       - "&7&8&m------------------------------------"
     listEntry: "&f - Advertido por {executor} | {reason}"
     unwarn: "&aLa ultima advertencia de &c{player} fue removida."
