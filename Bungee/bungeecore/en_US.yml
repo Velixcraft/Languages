@@ -422,7 +422,7 @@ sanctions:
     usage: "&cUsa: /{command} <jugador/ip> [time] [razón]"
     broadcastMute: "&a{executor} &fmuteo a &a{muted}&f por &a{reason}"
     broadcastIpmute: "&a{executor} &fmuteo de IP a &a{muted}&f por &a{reason}"
-    broadcastTempmute: "&a{executor} &fmuteo temporalmente a &a{muted}&f por &a{duration}&f por &a{reason}"
+    broadcastTempMute: "&a{executor} &fmuteo temporalmente a &a{muted}&f por &a{duration}&f por &a{reason}"
     broadcastTempIpmute: "&a{executor} &fmuteo temporalmente de IP a &a{muted}&f por &a{duration}&f por &a{reason}"
     message:
       - "&4Fuiste muteado por {executor} por {reason}."
