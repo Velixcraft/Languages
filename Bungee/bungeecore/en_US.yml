@@ -12,8 +12,8 @@ error: "&cOcurrio un error. Contacta con un administrador."
 mustBeNumber: "&cDebe ser un numero."
 inCooldown: "&cEstas en cooldown, espera {time} segundos."
 invalidTime: "&cTiempo no valido."
-yes: "Si"
-no: "No"
+'yes': "Si"
+'no': "No"
 
 message:
   usage: "&cUsa: /msg <jugador> <mensaje>"
