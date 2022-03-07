@@ -538,5 +538,5 @@ announcements:
       - ""
       - "  &e{player} &frecuerda que puedes adquirir"
       - "    &frango en la tienda oficial del servidor."
-      - "  &fCómpralo aquí: &b/tienda"
+      - "          &fCómpralo aquí: &b/tienda"
       - ""
