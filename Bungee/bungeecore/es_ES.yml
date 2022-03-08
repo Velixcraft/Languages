@@ -64,6 +64,7 @@ stats:
   usage: "&cUso correcto: /tops [page/info] <id>"
   invalidId: "&cEsa ID no es valida."
   none: "&cN/A"
+  topTime: "&8#{top} &a{player} &f| Se ha conectado &a{time}&f."
   dataInfo:
     - "&7Información:"
     - " ID: {id}"
