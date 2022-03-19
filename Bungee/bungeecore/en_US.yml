@@ -86,45 +86,45 @@ stats:
 
 helpop:
   usage: "&cCorrect usage:&7 /helpop <msg>"
-  send: "&a¡Espera a que un staff conteste tu mensaje!"
-  staff: "&c&l¡AYUDA! &7({server}) &6{player} &8»&e {message}"
+  send: "&aWait for a staff member to answer!"
+  staff: "&c&l¡HELP! &7({server}) &6{player} &8»&e {message}"
 
 reports:
   info:
-    - "{counter} reportes | Lista de reportes:"
+    - "{counter} ´Reports | Reports list:"
     - "{reports}"
-  reports: "&aReportado por: {reportedBy} | Fecha: {date} | Razón: {reason}"
+  reports: "&aReport by: {reportedBy} | Date: {date} | Reason: {reason}"
 
 report:
   usage: "&cCorrect usage: /report <jugador> <razón>"
-  reported: "&a&l¡GRACIAS! &e{reported} &aha sido reportado."
-  playerEvade: "&cNo puedes reportar al equipo del staff."
-  invalidReason: "&cRazones permitidas: &7Trampas, Lenguaje, Cross-Teaming, Fly, Reach, Speed, KillAura, AntiKB, Auto-Clicker, Grief, Estafa, TpaKill"
+  reported: "&a&l¡THANKS! &e{reported} &ahave been reported."
+  playerEvade: "&cYou cannot report a staff member."
+  invalidReason: "&cAllowed reasons: &7Cheats, Language, Cross-Teaming, Fly, Reach, Speed, KillAura, AntiKB, Auto-Clicker, Grief, Swindle, TpaKill"
   staff:
     report:
-      - "&c&l¡NUEVO REPORTE!"
+      - "&c&l¡NEW REPORT!"
       - ""
-      - "&fReportado: &6{reported}"
-      - "&fReportado por: &a{reportby}"
-      - "&fRazón: &e{reason}"
+      - "&fReported: &6{reported}"
+      - "&fReport by: &a{reportby}"
+      - "&fReason: &e{reason}"
       - ""
-      - "&fServidor: &e{server}"
+      - "&fServer: &e{server}"
       - ""
       - "{click}"
     click:
-      text: "&e&lClick para ir al servidor."
-      hover: "&aClick para ir al servidor."
+      text: "&e&lClick to join the server."
+      hover: "&aClick to join the server."
 
 friend:
   usage: "&cCorrect usage: /friend {usage}"
   help:
-    - "&a&lAMIGOS"
+    - "&a&lFRIENDS"
     - ""
-    - "&8/&bfriend add <jugador> &8- &7Envia una petición de amistad."
-    - "&8/&bfriend remove <jugador> &8- &7Quita a un jugador de tu lista de amigos"
-    - "&8/&bfriend accept <jugador> &8- &7Acepta la petición de amistad del jugador."
-    - "&8/&bfriend deny <jugador> &8- &7Rechaza la petición de amistad del jugador."
-    - "&8/&bfriend list &8- &7Mira la lista de tus amigos."
+    - "&8/&bfriend add <jugador> &8- &7Send a friend request."
+    - "&8/&bfriend remove <jugador> &8- &7Remove a player from your friends list"
+    - "&8/&bfriend accept <jugador> &8- &7Accept a friend request."
+    - "&8/&bfriend deny <jugador> &8- &7Rejects a friend request."
+    - "&8/&bfriend list &8- &7List all your friends."
   requestJoin: "&7Tienes solicitud de amistad de: {players}"
   notYourFriend: "&cNo es tu amigo."
   join: "&7Tu amigo &e{player} &7se &aconectó ahora."
