@@ -23,69 +23,69 @@ message:
     other: "&8[&6&lMSG&8] &6{player} &6➥ &eTú&e: {msg}"
 
 reply:
-  usage: "&cUsa: /r <mensaje>"
-  cantSend: "&cNo puedes enviar mensajes a este jugador."
-  noPlayer: "&cNo hablaste con nadie ultimamente."
+  usage: "&cCorrect usage: /r <mensaje>"
+  cantSend: "&cYou cannot send messages to this player."
+  noPlayer: "&cYou haven't talk to anyone."
   format:
-    player: "&8[&6&lMSG&8] &6{player} &6➥ &eTú&e: {msg}"
-    other: "&8[&6&lMSG&8] &7Tú: &6{player}&e: {msg}"
+    player: "&8[&6&lMSG&8] &6{player} &6➥ &eYOU&e: {msg}"
+    other: "&8[&6&lMSG&8] &7YOU: &6{player}&e: {msg}"
 
 socialspy:
-  enabled: "&a¡Modo espía del chat activado!"
-  disabled: "&c¡Modo espía del chat desactivado!"
-  msg: "&8&lEspía &8|&7 {player} ➥ {other}: &9{msg}"
+  enabled: "&aSpyMode on!"
+  disabled: "&cSpyMode off!"
+  msg: "&8&lSPY &8|&7 {player} ➥ {other}: &9{msg}"
 
 blockCommand:
-  notify: "&c{player} [{group}] intento usar el comando {command}"
-  message: "&cNo tienes acceso a este comando."
+  notify: "&c{player} [{group}] tried to use {command}"
+  message: "&cYou don't have access to this command."
 
 live:
-  usage: "&cUso correcto: /live <url>"
-  invalidUrl: "&cEl enlace no es valido."
-  clickText: "&a&l¡CLICK PARA VER!"
-  hover: "&a&l¡CLICK PARA VER!"
-  inCooldown: "&cEstás en cooldown, por favor espere &4{time}&c."
+  usage: "&cCorrect usage: /live <url>"
+  invalidUrl: "&cThe url is not valid."
+  clickText: "&a&lCLICK TO JOIN!"
+  hover: "&a&lCLICK TO JOIN!"
+  inCooldown: "&cYou're in cooldown, please wait &4{time}&c."
   plataformNotFound: "Stream"
   playing:
     - "&7&m---------------------------------"
-    - "&b{player} &eestá en directo jugando &a&l{server} en {plataform}"
+    - "&b{player} &eis live playing &a&l{server} on {plataform}"
     - "&8&l» &a&l{live}"
     - "&7&m---------------------------------"
   live:
     - "&7&m---------------------------------"
-    - "&b{player} &eestá en directo en {plataform}"
+    - "&b{player} &eis live on {plataform}"
     - "&8&l» &a&l{live}"
     - "&7&m---------------------------------"
 
 chatcontrol:
-  badword: "&cNo puedes decir malas palabras."
+  badword: "&cYou cannot say bad words."
 
 stats:
-  usage: "&cUso correcto: /tops [page/info] <id>"
-  invalidId: "&cEsa ID no es valida."
+  usage: "&cCorrect usage: /tops [page/info] <id>"
+  invalidId: "&cThat ID is not valid."
   none: "&cN/A"
-  topTime: "&8#{top} &a{player} &f| Se ha conectado &a{time}&f."
+  topTime: "&8#{top} &a{player} &f| Has been on &a{time}&f."
   dataInfo:
     - "&7Información:"
     - " ID: {id}"
     - " UUID: &a{uuid}"
-    - " Nombre: &a{name}"
+    - " Name: &a{name}"
     - ""
     - " IP: &a{ip}"
-    - " Pais: &a{country} ({countryCode})"
+    - " Country: &a{country} ({countryCode})"
     - ""
-    - " Fecha de ingreso: &a{joinDate}"
-    - " Fecha de salida: &a{quitDate}"
-    - " Tiempo conectado: &a{time}"
+    - " Join date: &a{joinDate}"
+    - " Exit date: &a{quitDate}"
+    - " Time on: &a{time}"
   info:
-    - "Pais de donde mas se conectan: &a{country} | {countryCount}"
-    - "Persona que más se estuvo conectado: &a{user} | {userTime}"
-    - "Lista:"
+    - "Top Country: &a{country} | {countryCount}"
+    - "Top User: &a{user} | {userTime}"
+    - "List:"
     - "{list}"
-  list: " &8[{id}] &a {player} &8| &fConectado: {time} &8| &fPais: {country}"
+  list: " &8[{id}] &a {player} &8| &fOn: {time} &8| &fCountry: {country}"
 
 helpop:
-  usage: "&cUso correcto:&7 /helpop <msg>"
+  usage: "&cCorrect usage:&7 /helpop <msg>"
   send: "&a¡Espera a que un staff conteste tu mensaje!"
   staff: "&c&l¡AYUDA! &7({server}) &6{player} &8»&e {message}"
 
@@ -96,7 +96,7 @@ reports:
   reports: "&aReportado por: {reportedBy} | Fecha: {date} | Razón: {reason}"
 
 report:
-  usage: "&cUso correcto: /report <jugador> <razón>"
+  usage: "&cCorrect usage: /report <jugador> <razón>"
   reported: "&a&l¡GRACIAS! &e{reported} &aha sido reportado."
   playerEvade: "&cNo puedes reportar al equipo del staff."
   invalidReason: "&cRazones permitidas: &7Trampas, Lenguaje, Cross-Teaming, Fly, Reach, Speed, KillAura, AntiKB, Auto-Clicker, Grief, Estafa, TpaKill"
@@ -116,7 +116,7 @@ report:
       hover: "&aClick para ir al servidor."
 
 friend:
-  usage: "&cUso correcto: /friend {usage}"
+  usage: "&cCorrect usage: /friend {usage}"
   help:
     - "&a&lAMIGOS"
     - ""
@@ -212,7 +212,7 @@ friend:
         offline: "&7Ahora tu estado es &cdesconectado&7."
 
 clan:
-  usage: "&cUso correcto: /clan {usage}"
+  usage: "&cCorrect usage: /clan {usage}"
   help:
     - "&2&lCLAN"
     - ""
@@ -308,7 +308,7 @@ clan:
 
 
 party:
-  usage: "&cUso correcto: /party {usage}"
+  usage: "&cCorrect usage: /party {usage}"
   help:
     - "&e&lPARTY"
     - ""
@@ -420,7 +420,7 @@ sanctions:
     - "&4(&chace {timeAgo}&4)"
   noReason: "&cNo pusiste una razón."
   ban:
-    usage: "&cUso correcto: /{command} <jugador> [time] [razón]"
+    usage: "&cCorrect usage: /{command} <jugador> [time] [razón]"
     broadcastBan: "&a{executor} &fbaneó a &a{banned} &fpor &c{reason}"
     broadcastTempBan: "&a{executor} &fbaneó temporalmente a &a{banned}&f por &a{duration} &fpor &a{reason}&f."
     broadcastIpban: "&a{executor} &fbaneó de IP a &a{banned} &fpor &a{reason}"
@@ -450,7 +450,7 @@ sanctions:
     unmuteUsage: "&cUso correcto: /unmute <jugador/ip>"
     broadcastUnmute: "&a{executor} &fdesmuteó a &a{muted}&f por &a{reason}."
   warn:
-    usage: "&cUso correcto: /warn <jugador> <razón>"
+    usage: "&cCorrect usage: /warn <jugador> <razón>"
     broadcast: "&a{executor}&f advirtió a &a{warned} &fpor &a{reason}"
     message:
       - "&7&8&m------------------------------------"
@@ -465,7 +465,7 @@ sanctions:
     unwarnUsage: "&cUso correcto: /unwarn <player>"
     broadcastUnwarn: "&a{executor} &fremovió la advertencia de &a{warned}"
   kick:
-    usage: "&cUso correcto: /kick <jugador> [razón]"
+    usage: "&cCorrect usage: /kick <jugador> [razón]"
     message: "&8» &eHas sido expulsado/a por &c{executor}&e: &f{reason}"
     messageNoReason: "&8» &eHas sido expulsado/a por &c{executor}&e."
     response: "&c{player} &eha sido expulsado."
@@ -473,7 +473,7 @@ sanctions:
     broadcastNoReason: "&8» &6{player} &eexpulsó a &c{executor}&e."
     exempt: "&cEste jugador no puede ser kickeado."
   history:
-    usage: "cUso correcto: /history <jugador> [entries]"
+    usage: "cCorrect usage: /history <jugador> [entries]"
     maxEntries: "&cNo debes exceder más de 10 entradas."
     noHistory: "&cEste jugador no tiene historial."
     start: "&aHistorial de {target}."
@@ -499,7 +499,7 @@ sanctions:
       - ""
       - "&f {name} fue &7deswarneado&f por {executor}: &a{reason}"
   checkban:
-    usage: "&cUso correcto: /checkban <jugador>"
+    usage: "&cCorrect usage: /checkban <jugador>"
     noBan: "&cEste jugador no está baneado."
     banned:
       - "&aJugador {target} esta baneado:"
@@ -519,7 +519,7 @@ sanctions:
       - "&aMuteado hasta: {dateEnd} ({duration})"
       - "&aIPMute: {ipban}, permanente: {permanent}"
   warnings:
-    usage: "&cUso correcto: /warnings <player>"
+    usage: "&cCorrect usage: /warnings <player>"
     start: "&fAdvertencias activas de {player}"
     noWarns: "&cEste jugador no tiene advertencias."
 announcements:
