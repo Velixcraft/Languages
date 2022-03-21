@@ -74,3 +74,8 @@ holograms:
   minijuegos:
     1:
      "&6Conectados"
+  ventajas:
+    1:
+     "&bVentajas"
+    2:
+     "&7(Click derecho)"
