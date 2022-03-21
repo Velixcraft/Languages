@@ -45,13 +45,29 @@ scoreboard:
     - "&f"
     - "&emc.velixplay.net"
 
-hologram:
-  text:
+holograms:
+  bienvenida:
     1:
      "&b&k::: &f&l¡Bienvenido a &b&lVELIXPLAY &f&lNETWORK! &b&k:::"
     2:
-     ""
-    3:
      "&b¡Disfruta de la aventura!"
-    4:
+    3:
      "&fConoce nuestras &5Modalidades"
+    4:
+     "&fEn este servidor disfrutarás de varios modos de juego"
+    5:
+     "&fpara divertirte con &6amigos o solo&f, puedes ayudarnos"
+    6:
+     "&fa crecer y aumentar nuestra comunidad &ainvitando a tus amigos."
+    7:
+     "&f¡El servidor tendrá &b&omás modalidades &fsi hay"
+    8:
+     "&cdonaciones suficientes &fpara mantenerlas!"
+    9:
+     "&fSi deseas ayudar con donaciones puedes adquirir"
+    10:
+     "&dun paquete de beneficios o rango &fen nuestra tienda"
+    11:
+     "&7&lTIENDA: &a&nstore.velixplay.net"
+    12:
+     "&b&lmc.velixplay.net"
