@@ -48,28 +48,26 @@ scoreboard:
 holograms:
   bienvenida:
     1:
-     "&b&k::: &f&l¡Bienvenido a &b&lVELIXPLAY &f&lNETWORK! &b&k:::"
+     "&b&k::: &f&l¡Welcome to &b&lVELIXPLAY &f&lNETWORK! &b&k:::"
     2:
-     "&b¡Disfruta de la aventura!"
+     "&bEnjoy your adventure!"
     3:
-     "&fConoce nuestras &5Modalidades"
+     "&fMeet our &5games"
     4:
-     "&fEn este servidor disfrutarás de varios modos de juego"
+     "&fIn this server you will enjoy multiples game modes"
     5:
-     "&fpara divertirte con &6amigos o solo&f, puedes ayudarnos"
+     "&fto have fun with &6friends or without them&f, you can help us"
     6:
-     "&fa crecer y aumentar nuestra comunidad &ainvitando a tus amigos."
+     "&fto grow and increase our community &aby inviting all of your friends."
     7:
-     "&f¡El servidor tendrá &b&omás modalidades &fsi hay"
+     "&fif there's enough support we will add &b&omore game modes"
     8:
-     "&cdonaciones suficientes &fpara mantenerlas!"
+     "&fIf you want to help with donations, you can a purchase"
     9:
-     "&fSi deseas ayudar con donaciones puedes adquirir"
+     "&da benefits package or a rank &fin our store"
     10:
-     "&dun paquete de beneficios o rango &fen nuestra tienda"
+     "&7&lSTORE: &a&nstore.velixplay.net"
     11:
-     "&7&lTIENDA: &a&nstore.velixplay.net"
-    12:
      "&b&lmc.velixplay.net"
   minijuegos:
     1:
