@@ -44,3 +44,8 @@ scoreboard:
     - " &b● &fLobby: #1"
     - "&f"
     - "&emc.velixplay.net"
+
+hologram:
+  text:
+    1:
+     "&fExample dog"
