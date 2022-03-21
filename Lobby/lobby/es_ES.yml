@@ -48,4 +48,10 @@ scoreboard:
 hologram:
   text:
     1:
-     "&fEjemplo perro"
+     "&b&k::: &f&l¡Bienvenido a &b&lVELIXPLAY &f&lNETWORK! &b&k:::"
+    2:
+     ""
+    3:
+     "&b¡Disfruta de la aventura!"
+    4:
+     "&fConoce nuestras &5Modalidades"
