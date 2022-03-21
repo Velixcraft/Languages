@@ -74,3 +74,8 @@ holograms:
   minijuegos:
     1:
      "&6Online"
+  ventajas:
+    1:
+     "&bAdvantages"
+    2:
+     "&7(Right click)"
