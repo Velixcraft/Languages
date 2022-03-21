@@ -15,6 +15,9 @@ invalidTime: "&cTiempo no valido."
 'yes': "Si"
 'no': "No"
 
+noServerToConnect: "&cNo hay servidores para conectarse"
+noFallbackServer: "&cNo hay servidores de fallback para conectarse"
+
 message:
   usage: "&cUso correcto: &7/msg <jugador> <msg>"
   cantSend: "&cNo puedes enviar mensajes a este jugador."
