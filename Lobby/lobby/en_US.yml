@@ -84,3 +84,10 @@ holograms:
      "&b&lTOP DONOR"
     2:
      "&7store.velixplay.net"
+  mascotas:
+    1:
+     "&e* &c&lHUNTER &e*"
+    2:
+     "&fI have hunted some creatures."
+    3:
+     "&bClick to view"
