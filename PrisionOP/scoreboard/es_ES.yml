@@ -1,7 +1,6 @@
 scoreboard:
-  title:
+  texto:
     1:
      "&6&lPRISION OP"
-  text:
-    1:
+    2:
      "&7      %server_time_dd/MM/y%"
