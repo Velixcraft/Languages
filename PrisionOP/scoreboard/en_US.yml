@@ -1,7 +1,6 @@
 scoreboard:
-  title:
+  texto:
     1:
-     "&6&lOP PRISON"
-  text:
-    1:
+     "&6&lOP PRISION"
+    2:
      "&7      %server_time_dd/MM/y%"
