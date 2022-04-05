@@ -25,3 +25,16 @@ holograms:
      "&fAquí puedes encontrar algunos objetos valiosos."
     4:
      "&6&nHaga clic aquí para abrir"   
+  autominer:
+    1:
+     "&6&lRegión de AutoMinado"
+    2:
+     "&fEstás en la región de &6AutoMinado &f."
+    3:
+     "&fSólo hay que estar dentro de esta zona."
+    4:
+     "&fCada segundo obtendrás &65 Bloques"
+    5:
+     "&fy obtendrás dinero por los bloques."
+    6:
+     "&6&n¡Tienes que sostener tu pico!"
