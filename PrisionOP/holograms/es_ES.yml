@@ -16,4 +16,12 @@ holograms:
      "&6Recompensas diarias"
     8:
      "&6Comenzar a minar"
-     
+  auction:
+    1:
+     "&6&lSUBASTAS"
+    2:
+     "&fConsulta la subasta de jugadores todos los días."
+    3:
+     "&fAquí puedes encontrar algunos objetos valiosos."
+    4:
+     "&6&nHaga clic aquí para abrir"   
