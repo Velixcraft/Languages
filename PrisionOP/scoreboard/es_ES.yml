@@ -4,3 +4,17 @@ scoreboard:
      "&6&lPRISION OP"
     2:
      "&7      %server_time_dd/MM/y%"
+    3:
+     "&6Perfil"
+    4:
+     "&fRango"
+    5:
+     "&fPrestigio"
+    6:
+     "&fBloques"
+    7:
+     "&6Monedas"
+    8:
+     "&fDinero"
+    9:
+     "&fGemas"
