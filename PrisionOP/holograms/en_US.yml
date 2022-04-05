@@ -25,3 +25,16 @@ holograms:
      "&fYou can find some valuable items here."
     4:
      "&6&nClick here to open"
+  autominer:
+    1:
+     "&6&lAutoMiner Region"
+    2:
+     "&fYou are at the &6AutoMiner &fregion."
+    3:
+     "&fJust stand inside this building."
+    4:
+     "&fEvery second you will get &65 Blocks"
+    5:
+     "&fyour hand-held pickaxe."
+    6:
+     "&6&nYou have to hold your pickaxe!"
