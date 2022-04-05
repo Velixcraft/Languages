@@ -16,4 +16,12 @@ holograms:
      "&6Daily Rewards"
     8:
      "&6Start Mining"
-     
+  auction:
+    1:
+     "&6&lAUCTIONS"
+    2:
+     "&fCheck the player auction every day!"
+    3:
+     "&fYou can find some valuable items here."
+    4:
+     "&6&nClick here to open"
