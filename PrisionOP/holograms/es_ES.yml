@@ -24,7 +24,7 @@ holograms:
     3:
      "&fAquí puedes encontrar algunos objetos valiosos."
     4:
-     "&6&nHaga clic aquí para abrir"   
+     "&6&nHaga click aquí para abrir"  
   autominer:
     1:
      "&6&lRegión de AutoMinado"
@@ -38,3 +38,21 @@ holograms:
      "&fy obtendrás dinero por los bloques."
     6:
      "&6&n¡Tienes que sostener tu pico!"
+  bar:
+    1:
+     "&6&lBAR DE JUEGO"
+    2:
+     "&f¡Pruebe su suerte y compre"
+    3:
+     "&falgunas bebidas para ganar!
+    4:
+     "&6&nHaga click aquí para abrir"
+  blockreward:
+    1:
+     "&6&lRecompensas en bloque"
+    2:
+     "&fLos jugadores pueden recoger recompensas mientras minan."
+    3:
+     "&fPuedes conseguirlos &6cada 10000 &fbloques."
+    4:
+     "&6&n¡Picar es genial!"
