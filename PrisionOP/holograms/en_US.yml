@@ -38,3 +38,21 @@ holograms:
      "&fyour hand-held pickaxe."
     6:
      "&6&nYou have to hold your pickaxe!"
+  bar:
+    1:
+     "&6&lGAMBLE BAR"
+    2:
+     "&fTest your luck and buy"
+    3:
+     "&fsome drinks for the win!"
+    4:
+     "&6&nClick here to open"
+  blockreward:
+    1:
+     "&6&lBlock Rewards"
+    2:
+     "&fPlayers can collect rewards while mining."
+    3:
+     "&fYou can get them &6every 10000 &fblocks."
+    4:
+     "&6&nGrinding is cool!"
