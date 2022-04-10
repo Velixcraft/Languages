@@ -2,3 +2,51 @@ menu:
   cellmenu:
     1:
      "&8Cells Main Menu"
+    2:
+     "&6Teleport"
+    3:
+     "&fTeleport back to your cell."
+    4:
+     "&6Click here to teleport"
+    5:
+     "&6Settings"
+    6:
+     "&fHere you open the cell settings."
+    7:
+     "&6Click here to open"
+    8:
+     "&6Permissions"
+    9:
+     "&fHere you can manage the cell"
+    10:
+     "&fpermissions."
+    11:
+     "&6Values"
+    12:
+     "&fHere you can check your"
+    13:
+     "&fcell value."
+    14:
+     "&6Chest"
+    15:
+     "&fHere you can open your"
+    16:
+     "&fcell chest."
+    17:
+     "&6Top Cells"
+    18:
+     "&fHere you can check the"
+    19:
+     "&ftop cells."
+    20:
+     "&6Cell Visitors"
+    21:
+     "&fHere you can check your"
+    22:
+     "&fcell visitors"
+    23:
+     "&6Cell Members"
+    24:
+     "&fHere you can check your"
+    25:
+     "&fcell members"
