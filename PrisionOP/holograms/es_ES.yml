@@ -56,3 +56,91 @@ holograms:
      "&fPuedes conseguirlos &6cada 10000 &fbloques."
     4:
      "&6&n¡Picar es genial!"
+  cellinfo:
+    1:
+     "&6&lPANEL DE CELDAS"
+    2:
+     "&fAquí puede abrir el Panel de Celdas."
+    3:
+     "&fPuedes gestionar fácilmente tu celda en él."
+    4:
+     "&6&nHaga click aquí para abrir"
+  crates:
+    1:
+     "&6&lCrates"
+    2:
+     "&fAquí puede encontrar los &6Crates."
+    3:
+     "&fPuedes conseguir &6buenas recompensas &faquí."
+    4:
+     "&6&n¿Te gusta el juego?"
+  enchants:
+    1:
+     "&6&lEncantamientos personalizados"
+    2:
+     "&fHay &623 encantamientos &fPersonalizados"
+    3:
+     "&fpara su pico de la prisión."
+    4:
+     "&fPuedes comprarlos con &6Tokens."
+    5:
+     "&6&n¡Haz un click derecho con tu pico!"
+  gemshop:
+    1:
+     "&6&lTIENDA DE GEMAS"
+    2:
+     "&fCompruebe la tienda de gemas y"
+    3:
+     "&fcompra los mejores artículos!"
+    4:
+     "&6&nHaga click aquí para abrir"
+  keylocker:
+    1:
+     "&6&lLLAVERO"
+    2:
+     "&fAquí puedes abrir el llavero"
+    3:
+     "&fpara gestionar sus llaves."
+    4:
+     "&6&nClick para abrir"
+  mines:
+    1:
+     "&6&lSelector de minas"
+    2:
+     "&fEstás en el selector de &6Minas&f."
+    3:
+     "&fSólo tienes que ir a abrir el menú."
+    4:
+     "&6&nBuena suerte."
+  pickaxelevels:
+    1:
+     "&6&lSistema de Niveles de Pico"
+    2:
+     "&fLos jugadores pueden subir de nivel sus picos."
+    3:
+     "&fEs una gran función para obtener recompensas."
+    4:
+     "&fMás información en &6/pickhelp"
+    5:
+     "&6&nUna cosa genial, ¿verdad?"
+  prestige:
+    1:
+     "&fPrestigio"
+  reward:
+    1:
+     "&6&lRECOMPENSAS DIARIAS"
+    2:
+     "&f¡Puedes canjear premios geniales"
+    3:
+     "&fcon tu rango todos los días!"
+    4:
+     "&6&nHaga click aquí para abrir"
+  shop:
+    1:
+     "&6&lMinas de la prisión"
+    2:
+     "&fVen aquí y comienza tu"
+    3:
+     "&faventura ahora!"
+    4:
+     "&6&nHaga click aquí para abrir"
