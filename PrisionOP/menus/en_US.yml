@@ -50,3 +50,32 @@ menu:
      "&fHere you can check your"
     25:
      "&fcell members"
+  donator:
+    1:
+     "&8Donator Mines"
+    2:
+     "&8[&fMine &e&lNOVICE&8]"
+    3:
+     "&fYou have been &6&lUNLOCKED &fthis mine."
+    4:
+     "&fYou can teleport anytime."
+    5:
+     "&6Click here to teleport"
+    6:
+     "&fThis mine is &c&lLOCKED &ffor you."
+    7:
+     "&fYou need the &e&lNOVICE &frank."
+    8:
+     "&cNot Enough Rank"
+    9:
+     "&8[&fMine &5&lMAGICIAN&8]"
+    10:
+     "&fYou need the &5&lMAGICIAN &frank."
+    11:
+     "&8[&fMine &2&lMASTER&8]"
+    12:
+     "&fYou need the &2&lMASTER &frank."
+    13:
+     "&8[&fMine &b&lVELIX&8]"
+    14:
+     "&fYou need the &b&lVELIX &frank."
