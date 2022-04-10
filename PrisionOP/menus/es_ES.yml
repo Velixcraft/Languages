@@ -50,3 +50,32 @@ menu:
      "&fAquí puede comprobar sus"
     25:
      "&fmiembros de la Celda"
+  donator:
+    1:
+     "&8Minas VIPS"
+    2:
+     "&8[&fMina &e&lNOVICE&8]"
+    3:
+     "&fEsta mina está &6&lDESBLOQUEADA &fpara ti."
+    4:
+     "&fPuedes teletransportarte en cualquier momento."
+    5:
+     "&6Haga click aquí para teletransportarse"
+    6:
+     "&fEsta mina está &c&lBLOQUEADA &fpara ti."
+    7:
+     "&fNecesitas rango &e&lNOVICE &f."
+    8:
+     "&cNo tienes el rango."
+    9:
+     "&8[&fMina &5&lMAGICIAN&8]"
+    10:
+     "&fNecesitas rango &5&lMAGICIAN &f."
+    11:
+     "&8[&fMina &2&lMASTER&8]"
+    12:
+     "&fNecesitas rango &2&lMASTER &f."
+    13:
+     "&8[&fMina &b&lVELIX&8]"
+    14:
+     "&fNecesitas rango &b&lVELIX &f."
