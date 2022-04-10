@@ -1,1 +1,4 @@
-si
+menu:
+  cellmenu:
+    1:
+     "&8Menú de Celdas"
