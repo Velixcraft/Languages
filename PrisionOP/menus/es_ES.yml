@@ -2,3 +2,51 @@ menu:
   cellmenu:
     1:
      "&8Menú de Celdas"
+    2:
+     "&6Teletransporte"
+    3:
+     "&fTeletranspórtate a tu celda."
+    4:
+     "&6Haga clic aquí para teletransportarse"
+    5:
+     "&6Ajustes"
+    6:
+     "&fAquí se abre la configuración de la celda."
+    7:
+     "&6Haga click aquí para abrir"
+    8:
+     "&6Permisos"
+    9:
+     "&fAquí puedes configurar los permisos"
+    10:
+     "&fde tu celda."
+    11:
+     "&6Valores"
+    12:
+     "&fAquí puede comprobar su"
+    13:
+     "&fvalor de la celda."
+    14:
+     "&6Cofre"
+    15:
+     "&fAquí puedes abrir tu"
+    16:
+     "&fcofre de la celda."
+    17:
+     "&6Top Celdas"
+    18:
+     "&fAquí puede comprobar el"
+    19:
+     "&ftop celdas."
+    20:
+     "&6Visitantes de la Celda"
+    21:
+     "&fAquí puede comprobar sus"
+    22:
+     "&fvisitantes de la celda"
+    23:
+     "&6Miembros de la Celda"
+    24:
+     "&fAquí puede comprobar sus"
+    25:
+     "&fmiembros de la Celda"
