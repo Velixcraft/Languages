@@ -56,3 +56,91 @@ holograms:
      "&fYou can get them &6every 10000 &fblocks."
     4:
      "&6&nGrinding is cool!"
+  cellinfo:
+    1:
+     "&6&lCELL PANEL"
+    2:
+     "&fHere you can open the Cell Panel."
+    3:
+     "&fYou can easily manage your cell in it."
+    4:
+     "&6&nClick here to open"
+  crates:
+    1:
+     "&6&lCrates"
+    2:
+     "&fHere can you find the &6Crates."
+    3:
+     "&fYou can get &6cool rewards &ffrom them."
+    4:
+     "&6&nDo you like gambling?"
+  enchants:
+    1:
+     "&6&lCustom Enchantments"
+    2:
+     "&fThere is &623 Custom &fEnchantments"
+    3:
+     "&ffor your prison pickaxe."
+    4:
+     "&fYou can buy them with &6Tokens."
+    5:
+     "&6&nRight-Click with your pickaxe!"
+  gemshop:
+    1:
+     "&6&lGEMS SHOP"
+    2:
+     "&fCheck out the gemshop and"
+    3:
+     "&fgrab the best items!"
+    4:
+     "&6&nClick here to open"
+  keylocker:
+    1:
+     "&6&lKEY LOCKER"
+    2:
+     "&fHere you can open the "
+    3:
+     "&fKey Locker to manage your keys."
+    4:
+     "&6&nClick here to open"
+  mines:
+    1:
+     "&6&lMines Selector"
+    2:
+     "&fYou are at the &6Mines &fselector."
+    3:
+     "&fJust go ahead &6to open &6the menu."
+    4:
+     "&6&nGood Luck!"
+  pickaxelevels:
+    1:
+     "&6&lPickaxe Leveling System"
+    2:
+     "&fPlayers can leveling up their pickaxes."
+    3:
+     "&fIts a great feature to get rewards."
+    4:
+     "&fCheck out more at &6/pickhelp"
+    5:
+     "&6&nCool feature right?"
+  prestige:
+    1:
+     "&fPrestige"
+  reward:
+    1:
+     "&6&lDAILY REWARDS"
+    2:
+     "&fYou can redeem cool rewards with"
+    3:
+     "&fyour rank every day!"
+    4:
+     "&6&nClick here to open"
+  shop:
+    1:
+     "&6&lPrison Mines"
+    2:
+     "&fCome here and start your"
+    3:
+     "&fadventure now!"
+    4:
+     "&6&nClick here to open"
