@@ -1,11 +1,11 @@
 scoreboard:
   texto:
     1:
-     "&6&lPRISIÓN OP"
+     "&b&lPRISIÓN OP"
     2:
      "&7      %server_time_dd/MM/y%"
     3:
-     "&6Perfil"
+     "&ePerfil"
     4:
      "&fRango"
     5:
@@ -13,7 +13,7 @@ scoreboard:
     6:
      "&fBloques"
     7:
-     "&6Monedas"
+     "&eMonedas"
     8:
      "&fDinero"
     9:
