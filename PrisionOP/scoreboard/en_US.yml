@@ -1,11 +1,11 @@
 scoreboard:
   texto:
     1:
-     "&6&lOP PRISON"
+     "&b&lOP PRISON"
     2:
      "&7      %server_time_dd/MM/y%"
     3:
-     "&6Profile"
+     "&eProfile"
     4:
      "&fRank"
     5:
@@ -13,7 +13,7 @@ scoreboard:
     6:
      "&fBlocks"
     7:
-     "&6Currencies"
+     "&eCurrencies"
     8:
      "&fMoney"
     9:
