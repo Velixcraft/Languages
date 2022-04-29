@@ -1,7 +1,7 @@
 holograms:
   bienvenida:
     1:
-     "&6&lOP PRISON"
+     "&b&lOP PRISON"
     2:
      "&fWelcome"
     3:
@@ -9,7 +9,7 @@ holograms:
     4:
      "&fThanks for joining, hope you are doing well!"
     5:
-     "&6&lServer Information"
+     "&b&lServer Information"
     6:
      "&6Store"
     7:
