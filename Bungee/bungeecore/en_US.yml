@@ -40,7 +40,7 @@ socialspy:
 
 blockCommand:
   notify: "&c{player} [{group}] tried to use {command}"
-  message: "&cYou don't have access to this command."
+  message: "&cError 404 &fThis command does not exist. Use &e/ayuda &ffor more information."
 
 live:
   usage: "&cCorrect usage: /live <url>"
