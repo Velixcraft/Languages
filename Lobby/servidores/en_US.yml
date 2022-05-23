@@ -47,7 +47,7 @@ items:
       - '&a&lINFORMATION:'
       - '&8&l * &fType: &c&lPOPULAR'
       - '&8&l * &fVersion: &e1.18.x'
-      - '&8&l * &fPlayers: &d%math_{bungee_Survival18}%'
+      - '&8&l * &fPlayers: &d%math_{bungee_Vanilla18}%'
       - '&7'
       - '&b¡Click to connect!'
   skyblock:
