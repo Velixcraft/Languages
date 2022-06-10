@@ -476,7 +476,7 @@ sanctions:
     broadcastNoReason: "&8» &6{player} &eexpulsó a &c{executor}&e."
     exempt: "&cEste jugador no puede ser kickeado."
   history:
-    usage: "cUso correcto: /history <jugador> [entries]"
+    usage: "&cUso correcto: /history <jugador> [entries]"
     maxEntries: "&cNo debes exceder más de 10 entradas."
     noHistory: "&cEste jugador no tiene historial."
     start: "&aHistorial de {target}."
