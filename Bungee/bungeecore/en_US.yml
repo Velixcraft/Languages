@@ -473,7 +473,7 @@ sanctions:
     messageNoReason: "&8» &eYou have been kicked by &c{executor}&e."
     response: "&c{player} &ehas been kicked."
     broadcast: "&8» &6{executor} &ekicked &c{player}&e for &7{reason}&e."
-    broadcastNoReason: "&8» &6{player} &ekicked &c{executor}&e."
+    broadcastNoReason: "&8» &6{executor} &ekicked &c{player}&e."
     exempt: "&cThis player cannot be kicked."
   history:
     usage: "&cCorrect usage: /history <player> [entries]"
