@@ -98,20 +98,20 @@ items:
       - '&7'
       - '&b¡Click para conectarte!'
         
-  zombie:
-    displayName: "&a&lZOMBIES &7[v2.0]"
+  prisionop:
+    displayName: "&a&lPRISIONOP &7[v1.0]"
     lore:
       - '&8Competitivo'
       - '&7'
-      - '&f¿Listo para superar todos los retos?'
-      - '&fUn servidor lleno de variedades de modos'
-      - '&fde parkour, donde cada vez se va complicando'
-      - '&fel modo ¿Serás capaz de lograrlo?'
+      - '&fTendrás que dedicarte a minar,'
+      - '&fconseguir dinero y subir de'
+      - '&frangos. Equipacon o sin.ndote y pelear'
+      - '&fcon o sin clan.'
       - '&7'
       - '&a&lINFORMACIÓN:'
-      - '&8&l * &fTipo: &a&lPVP'
-      - '&8&l * &fVersión: &e1.8.x'
-      - '&8&l * &fJugadores: &d%math_{bungee_Kitmap}%'
+      - '&8&l * &fTipo: &c&lNUEVO'
+      - '&8&l * &fVersión: &e1.8 - 1.19'
+      - '&8&l * &fJugadores: &d%math_{bungee_PrisionOP}%'
       - '&7'
       - '&b¡Click para conectarte!'
   dgadg:
