@@ -19,7 +19,7 @@ items:
       - '&8&l * &fVersion: &e1.8.x'
       - '&8&l * &fPlayers: &d%math_{bungee_LobbyBW-1}+{bungee_LobbyBW-2}%'
       - '&7'
-      - '&b¡Click to connect!'
+      - '&bClick to connect!'
   skywars:
     displayName: "&a&lSKYWARS &7[v2.0]"
     lore:
@@ -34,7 +34,7 @@ items:
       - '&8&l * &fVersion: &e1.18.x'
       - '&8&l * &fPlayers: &d%math_{bungee_Survival18}%'
       - '&7'
-      - '&b¡Click to connect!'
+      - '&bClick to connect!'
   survival:
     displayName: "&a&lSURVIVAL &7[v2.0]"
     lore:
@@ -49,7 +49,7 @@ items:
       - '&8&l * &fVersion: &e1.18.x'
       - '&8&l * &fPlayers: &d%math_{bungee_Vanilla18}%'
       - '&7'
-      - '&b¡Click to connect!'
+      - '&bClick to connect!'
   skyblock:
     displayName: "&a&lSKYBLOCK &7[v1.0]"
     lore:
@@ -64,7 +64,7 @@ items:
       - '&8&l * &fVersion: &e1.18.x'
       - '&8&l * &fPlayers: &d%math_{bungee_Skyblock-18}%'
       - '&7'
-      - '&b¡Click to connect!!'
+      - '&bClick to connect!!'
   parkour:
     displayName: "&a&lPARKOUR &7[v2.0]"
     lore:
@@ -80,7 +80,7 @@ items:
       - '&8&l * &fVersion: &e1.8.x'
       - '&8&l * &fPlayers: &d%math_{bungee_Parkour}%'
       - '&7'
-      - '&b¡Click to connect!'
+      - '&bClick to connect!'
   kitmap:
     displayName: "&a&lKITMAP &7[v2.0]"
     lore:
@@ -96,24 +96,24 @@ items:
       - '&8&l * &fVersion: &e1.8.x'
       - '&8&l * &fPlayers: &d%math_{bungee_Kitmap}%'
       - '&7'
-      - '&b¡Click to connect!'
+      - '&bClick to connect!'
         
   prisionop:
     displayName: "&a&lPRISIONOP &7[v1.0]"
     lore:
-      - '&8Competitivo'
+      - '&8Competitive'
       - '&7'
-      - '&fTendrás que dedicarte a minar,'
-      - '&fconseguir dinero y subir de'
-      - '&frangos. Equípate y pelea'
-      - '&fcon o sin clan.'
+      - '&fYou will have to dedicate yourself to mining,'
+      - '&fget money and rank up'.
+      - '&Gear up and fight'
+      - '&fwith or without clan.'
       - '&7'
-      - '&a&lINFORMACIÓN:'
-      - '&8&l * &fTipo: &c&lNUEVO'
-      - '&8&l * &fVersión: &e1.8 - 1.19'
-      - '&8&l * &fJugadores: &d%math_{bungee_PrisionOP}%'
+      - '&a&lINFORMATION:'
+      - '&8&l * &fType: &c&lNEW'
+      - '&8&l * &fVersion: &e1.8 - 1.19'
+      - '&8&l * &fPlayers: &d%math_{bungee_PrisionOP}%'
       - '&7'
-      - '&b¡Click para conectarte!'
+      - '&bClick to join!'
   dgadg:
     displayName: "&a&lKITMAP &7[v2.0]"
     lore:
@@ -129,7 +129,7 @@ items:
       - '&8&l * &fVersion: &e1.8.x'
       - '&8&l * &fPlayers: &d%math_{bungee_Kitmap}%'
       - '&7'
-      - '&b¡Click to connect!'
+      - '&bClick to connect!'
         
   kbffa:
     displayName: "&a&lKNOCKBACK FFA &7[v1.0]"
@@ -146,7 +146,7 @@ items:
       - '&8&l * &fVersion: &e1.8.x'
       - '&8&l * &fPlayers: &d%math_{bungee_Kbffa}%'
       - '&7'
-      - '&b¡Click to connect!'
+      - '&bClick to connect!'
   thepit:
     displayName: "&a&lTHE PIT &7[v1.0]"
     lore:
@@ -162,7 +162,7 @@ items:
       - '&8&l * &fVersion: &e1.8.x'
       - '&8&l * &fPlayers: &d%math_{bungee_Thepit}%'
       - '&7'
-      - '&b¡Click to connect!'
+      - '&bClick to connect!'
        
   close:
     displayName: "&cClose menu"
