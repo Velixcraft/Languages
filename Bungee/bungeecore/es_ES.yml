@@ -473,7 +473,7 @@ sanctions:
     messageNoReason: "&8» &eHas sido expulsado/a por &c{executor}&e."
     response: "&c{player} &eha sido expulsado."
     broadcast: "&8» &6{executor} &eexpulsó a &c{player}&e por &7{reason}&e."
-    broadcastNoReason: "&8» &6{player} &eexpulsó a &c{executor}&e."
+    broadcastNoReason: "&8» &6{executor} &eexpulsó a &c{player}&e."
     exempt: "&cEste jugador no puede ser kickeado."
   history:
     usage: "&cUso correcto: /history <jugador> [entries]"
