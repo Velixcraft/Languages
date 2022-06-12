@@ -97,7 +97,6 @@ items:
       - '&8&l * &fPlayers: &d%math_{bungee_Kitmap}%'
       - '&7'
       - '&bClick to connect!'
-        
   prisionop:
     displayName: "&a&lPRISIONOP &7[v1.0]"
     lore:
