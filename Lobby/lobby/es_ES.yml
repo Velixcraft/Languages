@@ -23,14 +23,18 @@ itemsJoin:
   
 joinMessages:
   Owner:
-    message:
+    messages:
     - '%luckperms_prefix%&6%player_name% &eingresó al servidor.'
   Staff:
-    message:
+    messages:
     - '%luckperms_prefix%&f%player_name% &eingresó al servidor.'
   Vip:
-    message:
+    messages:
     - '%luckperms_prefix%&a%player_name% &eingresó al servidor.'
+    
+fly:
+  enabled: "&aTu modo de vuelo ha sido activado"
+  disabled: "&cTu modo de vuelo ha sido desactivado."
   
 scoreboard:
   title:
