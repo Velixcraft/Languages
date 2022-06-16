@@ -45,6 +45,10 @@ scoreboard:
     - "&f"
     - "&emc.velixplay.net"
 
+fly:
+  enabled: "&aTu modo de vuelo ha sido activado"
+  disabled: "&cTu modo de vuelo ha sido desactivado."
+
 holograms:
   bienvenida:
     1:
