@@ -172,6 +172,10 @@ items:
     displayName: "&aTu perfil"
     lore:
       - '&7Click para ver tu perfil.'
+  buildteam:
+    displayName: "&aBuildTeam"
+    lore:
+      - '&7Solo personal autorizado.'
   panel0:
     displayName: '&8'
   panel1:
