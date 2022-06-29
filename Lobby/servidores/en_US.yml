@@ -171,6 +171,10 @@ items:
     displayName: "&aYour profile"
     lore:
       - '&7Click to see your profile.'
+  buildteam:
+    displayName: "&aBuildTeam"
+    lore:
+      - '&7Authorized personnel only.'
   panel0:
     displayName: '&8'
   panel1:
