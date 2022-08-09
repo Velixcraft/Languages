@@ -1,0 +1,201 @@
+settings:
+  title: "&3&l» &8Modalities &3&l«"
+
+items:
+  bedwars:
+    displayName: "&a&lBEDWARS &7[v2.0]"
+    lore:
+      - '&8Combat, Competitive'
+      - '&7'
+      - '&fReady to break beds?'
+      - '&fAn aerial combat where you'
+      - '&fmeet opponents,'
+      - '&fyou have a generator to'
+      - '&facquire tools and achieve'
+      - '&facabar con tus rivales.'
+      - '&7'
+      - '&a&lINFORMATION:'
+      - '&8&l * &fType: &c&lPOPULAR'
+      - '&8&l * &fVersion: &e1.8.x'
+      - '&8&l * &fPlayers: &d%math_{bungee_LobbyBW-1}+{bungee_LobbyBW-2}%'
+      - '&7'
+      - '&bClick to connect!'
+  skywars:
+    displayName: "&a&lSKYWARS &7[v2.0]"
+    lore:
+      - '&8Survival'
+      - '&7'
+      - '&fSurvive in the environment'
+      - '&fgetting materials and'
+      - '&fequipping from scratch.'
+      - '&7'
+      - '&a&lINFORMATION:'
+      - '&8&l * &fType: &c&lPOPULAR'
+      - '&8&l * &fVersion: &e1.18.x'
+      - '&8&l * &fPlayers: &d%math_{bungee_Survival18}%'
+      - '&7'
+      - '&bClick to connect!'
+  survival:
+    displayName: "&a&lSURVIVAL &7[v2.0]"
+    lore:
+      - '&8Survival'
+      - '&7'
+      - '&fSurvive in the environment'
+      - '&fgetting materials and'
+      - '&fequipping from scratch.'
+      - '&7'
+      - '&a&lINFORMATION:'
+      - '&8&l * &fType: &c&lPOPULAR'
+      - '&8&l * &fVersion: &e1.18.x'
+      - '&8&l * &fPlayers: &d%math_{bungee_Vanilla18}%'
+      - '&7'
+      - '&bClick to connect!'
+  skyblock:
+    displayName: "&a&lSKYBLOCK &7[v1.0]"
+    lore:
+      - '&8Survival'
+      - '&7'
+      - '&fSurvive in the environment'
+      - '&fgetting materials and'
+      - '&fequipping from scratch.'
+      - '&7'
+      - '&a&lINFORMATION:'
+      - '&8&l * &fType: &c&lPOPULAR'
+      - '&8&l * &fVersion: &e1.18.x'
+      - '&8&l * &fPlayers: &d%math_{bungee_Skyblock-18}%'
+      - '&7'
+      - '&bClick to connect!!'
+  parkour:
+    displayName: "&a&lPARKOUR &7[v2.0]"
+    lore:
+      - '&8Competitive'
+      - '&7'
+      - '&fReady to overcome all challenges?'
+      - '&fA server full of varieties of parkour modes,'
+      - '&fwhere the mode is getting more and more'
+      - '&fcomplicated. Will you be able to do it?'
+      - '&7'
+      - '&a&lINFORMATION:'
+      - '&8&l * &fType: &3&lCLÁSICO'
+      - '&8&l * &fVersion: &e1.8.x'
+      - '&8&l * &fPlayers: &d%math_{bungee_Parkour}%'
+      - '&7'
+      - '&bClick to connect!'
+  kitmap:
+    displayName: "&a&lKITMAP &7[v2.0]"
+    lore:
+      - '&8Competitive'
+      - '&7'
+      - '&fReady to be the best in weapons?'
+      - '&fA server full of weapons and vehicles'
+      - '&fwhere you can make your faction and'
+      - '&fbe the best. Will you be able to do it?'
+      - '&7'
+      - '&a&lINFORMATION:'
+      - '&8&l * &fType: &a&lPVP'
+      - '&8&l * &fVersion: &e1.8.x'
+      - '&8&l * &fPlayers: &d%math_{bungee_Kitmap}%'
+      - '&7'
+      - '&bClick to connect!'
+  prisionop:
+    displayName: "&a&lPRISIONOP &7[v1.0]"
+    lore:
+      - '&8Competitive'
+      - '&7'
+      - '&fYou will have to dedicate yourself to mining,'
+      - '&fget money and rank up.'
+      - '&fGear up and fight'
+      - '&fwith or without clan.'
+      - '&7'
+      - '&a&lINFORMATION:'
+      - '&8&l * &fType: &c&lNEW'
+      - '&8&l * &fVersion: &e1.8 - 1.19'
+      - '&8&l * &fPlayers: &d%math_{bungee_PrisionOP}%'
+      - '&7'
+      - '&bClick to join!'
+  dgadg:
+    displayName: "&a&lKITMAP &7[v2.0]"
+    lore:
+      - '&8Competitive'
+      - '&7'
+      - '&fReady to overcome all challenges?'
+      - '&fA server full of varieties of parkour modes,'
+      - '&fwhere the mode is getting more and more'
+      - '&fcomplicated. Will you be able to do it?'
+      - '&7'
+      - '&a&lINFORMATION:'
+      - '&8&l * &fType: &a&lPVP'
+      - '&8&l * &fVersion: &e1.8.x'
+      - '&8&l * &fPlayers: &d%math_{bungee_Kitmap}%'
+      - '&7'
+      - '&bClick to connect!'
+        
+  kbffa:
+    displayName: "&a&lKNOCKBACK FFA &7[v1.0]"
+    lore:
+      - '&8Competitive'
+      - '&7'
+      - '&fReady to overcome all challenges?'
+      - '&fA server full of varieties of parkour modes,'
+      - '&fwhere the mode is getting more and more'
+      - '&fcomplicated. Will you be able to do it?'
+      - '&7'
+      - '&a&lINFORMATION:'
+      - '&8&l * &fType: &a&lPVP'
+      - '&8&l * &fVersion: &e1.8.x'
+      - '&8&l * &fPlayers: &d%math_{bungee_Kbffa}%'
+      - '&7'
+      - '&bClick to connect!'
+  thepit:
+    displayName: "&a&lTHE PIT &7[v1.0]"
+    lore:
+      - '&8Competitive'
+      - '&7'
+      - '&fReady to overcome all challenges?'
+      - '&fA server full of varieties of parkour modes,'
+      - '&fwhere the mode is getting more and more'
+      - '&fcomplicated. Will you be able to do it?'
+      - '&7'
+      - '&a&lINFORMATION:'
+      - '&8&l * &fType: &a&lPVP'
+      - '&8&l * &fVersion: &e1.8.x'
+      - '&8&l * &fPlayers: &d%math_{bungee_Thepit}%'
+      - '&7'
+      - '&bClick to connect!'
+       
+  close:
+    displayName: "&cClose menu"
+    lore:
+      - '&7Click to close'
+  profile:
+    displayName: "&aYour profile"
+    lore:
+      - '&7Click to see your profile.'
+  buildteam:
+    displayName: "&aBuildTeam"
+    lore:
+      - '&7Authorized personnel only.'
+  panel0:
+    displayName: '&8'
+  panel1:
+    displayName: '&8'
+  panel7:
+    displayName: '&8'
+  panel8:
+    displayName: '&8'
+  panel9:
+    displayName: '&8'
+  panel17:
+    displayName: '&8'
+  panel36:
+    displayName: '&8'
+  panel44:
+    displayName: '&8'
+  panel45:
+    displayName: '&8'
+  panel46:
+    displayName: '&8'
+  panel52:
+    displayName: '&8'
+  panel53:
+    displayName: '&8'

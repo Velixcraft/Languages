@@ -1,0 +1,97 @@
+onlyPlayers: "&cOnly players can use this."
+onlyConsole: "&cPlayers can't use this."
+noPermissions: "&cYou don't have permissions to do this."
+blockedCommand: "&fThat command does not exist. &fUse &b/ayuda&f for more information."
+spawnSet: "&aThe spawn was established."
+serverLoading: "&cThe server is loading."
+reloaded: "&aPlugin reloaded successfully."
+menuNotExists: "&cThe menu <menu> dont exists."
+itemCooldown: "Wait <time> seconds to do this again."
+editMode:
+  enabled: "&aEdit mode was activated."
+  disabled: "&cEdit mode was disabled."
+  
+joinMessages:
+  Owner:
+    message:
+    - '%luckperms_prefix%&6%player_name% &ejoin.'
+  Staff:
+    message:
+    - '%luckperms_prefix%&f%player_name% &ejoin.'
+  Vip:
+    message:
+    - '%luckperms_prefix%&f%player_name% &ejoin.'
+    
+itemsJoin:
+  servidores:
+    displayName: '&b&lSERVERS &7(Right Click)'
+    lore:
+    - '&7'
+  lobbies:
+    displayName: '&b&lLOBBIES &7(Right Click)'
+    lore:
+    - '&7'
+  
+scoreboard:
+  title:
+    - "&b&lVELIXPLAY &8(&7%bungee_total%&8)"
+  text:
+    - "&f"
+    - " &b● &e%player_name%"
+    - " &b● &fRank: &r%luckperms_prefix%"
+    - " &b● &fVCoins: &60⛁"
+    - "&f"
+    - " &b● &fLobby: #1"
+    - "&f"
+    - "&emc.velixplay.net"
+
+fly:
+  enabled: "&aTu modo de vuelo ha sido activado"
+  disabled: "&cTu modo de vuelo ha sido desactivado."
+
+holograms:
+  bienvenida:
+    1:
+     "&b&k::: &f&l¡Welcome to &b&lVELIXPLAY &f&lNETWORK! &b&k:::"
+    2:
+     "&bEnjoy your adventure!"
+    3:
+     "&fMeet our &5games"
+    4:
+     "&fIn this server you will enjoy multiples game modes"
+    5:
+     "&fto have fun with &6friends or without them&f, you can help us"
+    6:
+     "&fto grow and increase our community &aby inviting all of your friends."
+    7:
+     "&fEventually we will add &b&omore game modes &fif there's"
+    8:
+     "&cenough donations &fto keep them!"
+    9:
+     "&fIf you want to help with donations, you can purchase"
+    10:
+     "&da benefits package or a rank &fin our store"
+    11:
+     "&7&lSTORE: &a&nstore.velixplay.net"
+    12:
+     "&b&lmc.velixplay.net"
+  minijuegos:
+    1:
+     "&6Online"
+  ventajas:
+    1:
+     "&bAdvantages"
+    2:
+     "&7(Right click)"
+  topdonador:
+    1:
+     "&b&lTOP DONOR"
+    2:
+     "&7store.velixplay.net"
+  mascotas:
+    1:
+     "&e* &c&lHUNTER &e*"
+    2:
+     "&fI have hunted some creatures."
+    3:
+     "&bClick to view"
