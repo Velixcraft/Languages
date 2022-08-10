@@ -41,7 +41,7 @@ scoreboard:
     - "&b&lVELIXPLAY &8(&7%bungee_total%&8)"
   text:
     - "&f"
-    - " &b● &e%player_name%"
+    - "&b&l ❙ &fNick: &e%player_name%"
     - " &b● &fRango: &r%luckperms_prefix%"
     - " &b● &fVCoins: &60⛁"
     - "&f"
