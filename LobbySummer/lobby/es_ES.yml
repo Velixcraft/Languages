@@ -47,8 +47,9 @@ scoreboard:
     - "&b ❙ &fVCoins: &60⛁"
     - "&b ❙ &fPelotas: &b0/25"
     - "&f"
-    - '&6  ❙ &fNivel: 1'
-    - "&6  ❙ &7[■■■■■■■■■■] &80"
+    - '&b ❙ &fNivel: 1'
+    - "&b ❙ &7[■■■■■■■■■■] &80"
+    - ""
     - '&b ❙ &fLobby: &b#1'
     - "&b ❙ &fGlobal: &b%bungee_total%/100"
     - "&f"
