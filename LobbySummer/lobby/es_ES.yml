@@ -37,23 +37,22 @@ fly:
   disabled: "&cTu modo de vuelo ha sido desactivado."
   
 scoreboard:
-  title:
-    - "&b&lVELIXPLAY &8(&7%bungee_total%&8)"
-  text:
-    - "&f"
-    - "&b ❙ &fNick: &e%player_name%"
-    - "&b ❙ &fRango: &r%luckperms_prefix%"
-    - "&f"
-    - "&b ❙ &fVCoins: &60⛁"
-    - "&b ❙ &fPelotas: &b0/25"
-    - "&f"
-    - '&b ❙ &fNivel: 1'
-    - "&b ❙ &7[■■■■■■■■■■] &80"
-    - ""
-    - '&b ❙ &fLobby: &b#1'
-    - "&b ❙ &fGlobal: &b%bungee_total%/100"
-    - "&f"
-    - "&emc.velixplay.net"
+  title: "&b&lVELIXPLAY &8(&7%bungee_total%&8)"
+  text: |-
+    &f
+    &b ❙ &fNick: &e%player_name%
+    &b ❙ &fRango: &r%luckperms_prefix%
+    &f
+    &b ❙ &fVCoins: &60⛁
+    &b ❙ &fPelotas: &b0/25
+    &f
+    &b ❙ &fNivel: 1
+    &b ❙ &7[■■■■■■■■■■] &80
+    &f
+    &b ❙ &fLobby: &b#1
+    &b ❙ &fGlobal: &b%bungee_total%/100
+    &f
+    &emc.velixplay.net
 
 holograms:
   bienvenida:

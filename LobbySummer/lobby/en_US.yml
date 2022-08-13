@@ -33,17 +33,22 @@ itemsJoin:
     - '&7'
   
 scoreboard:
-  title:
-    - "&b&lVELIXPLAY &8(&7%bungee_total%&8)"
-  text:
-    - "&f"
-    - " &b● &e%player_name%"
-    - " &b● &fRank: &r%luckperms_prefix%"
-    - " &b● &fVCoins: &60⛁"
-    - "&f"
-    - " &b● &fLobby: #1"
-    - "&f"
-    - "&emc.velixplay.net"
+  title: "&b&lVELIXPLAY &8(&7%bungee_total%&8)"
+  text: |-
+    &f
+    &b ❙ &fNick: &e%player_name%
+    &b ❙ &fRank: &r%luckperms_prefix%
+    &f
+    &b ❙ &fVCoins: &60⛁
+    &b ❙ &fSummer Balls: &b0/25
+    &f
+    &b ❙ &fLevel: 1
+    &b ❙ &7[■■■■■■■■■■] &80
+    &f
+    &b ❙ &fLobby: &b#1
+    &b ❙ &fGlobal: &b%bungee_total%/100
+    &f
+    &emc.velixplay.net
 
 fly:
   enabled: "&aTu modo de vuelo ha sido activado"
