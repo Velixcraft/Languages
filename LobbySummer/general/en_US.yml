@@ -1,0 +1,50 @@
+commands:
+  help: |-
+    {center}{prefix}&fHelp &7● &e<optional> / [required]
+    &7
+    {commands}
+    &7
+  setlobby:
+    help: '&7/core setlobby - &eSet lobby spawnpoint.'
+    success: '{prefix}&aLobby spawnpoint setted!'
+  lang:
+    help: |-
+      &7/core lang get <player> - &eGet the language.
+      &7/core lang set [lang] <player> - &eSet the language.
+      &7/core lang reset <player> - &eReset to default language.
+    get: '{prefix}&fYour language is &e{lang}&f.'
+    get_other: '{prefix}&b{player}&f''s language is &e{lang}&f.'
+    set: '{prefix}&fYour language now is &e{lang}&a!'
+    reset: '{prefix}&fYour language has been restored to &e{lang}&f!'
+    set_other: '{prefix}&fLanguage of &b{player} &frestored to &e{lang}&f.'
+  reload:
+    help: |-
+      &7/core reload - &eReload all files.
+      &7/core reload local - &eReload only local files.
+    success: '{prefix}&aAll files have been reloaded!'
+    local: '{prefix}&aLocal files have been reloaded!'
+  fly:
+    activated: '{prefix}&fYour flight mode has been &aactivated&f.'
+    deactivated: '{prefix}&fYour flight mode has been &cdeactivated&f.'    
+
+items:
+  cooldown: '{prefix}&cYou need to wait <time> seconds!'
+
+noPermission: '&cYou do not have permissions to do that!'
+sectionNotFound: '&f{section}&cdoesn''t exist!'
+languageNotFound: '{prefix}&cThat language not exist!'
+keyNotFound: '&cNeed translation: &f{key}'
+onlyPlayers: '&cThat option is only for players!'
+onlyConsole: '&cThat option is only for players!'
+commandNotExist: '&cThat command doesn''t exist!'
+playerNotExist: '{prefix}&cThat player does''nt exist!'
+
+menus:
+  not-exist: '{prefix}&cThat menu doesn''t exists!'
+
+error: '&4Error!'
+
+visibility:
+  ALL: "&aAll"
+  RANKS: "&6Only ranks"
+  NOBODY: "&cNobody"
