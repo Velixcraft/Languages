@@ -15,6 +15,17 @@ invalidTime: "&cTiempo no valido."
 'yes': "Si"
 'no': "No"
 
+staffchat:
+  join: '{staff-prefix}&a• &f%luckperms_prefix%{player} &fentró a la network.'
+  leave: '{staff-prefix}&c• &f%luckperms_prefix%{player} &fsalió de la network.'
+  toggled-reminder: '{staff-prefix}&c• &fRecuerda que tienes el chat rápido activado. Ten cuidado.'
+  hided-reminder: '{staff-prefix}&c• &fRecuerda que tienes el chat desactivado. Usa &b/sc hide &fpara mostrarlo de nuevo.'
+  cmd:
+    toggled: '&b&lSC &e• &fHas %status% &fel chat de staff.'
+    hide:
+      enabled: '&b&lSC &c• &fHas ocultado el chat. Para activarlo de nuevo, ejecuta el mismo comando.'
+      disabled: '&b&lSC &a• &fHas reactivado el chat de staff.'
+
 noServerToConnect: "&cNo hay servidores para conectarse"
 noFallbackServer: "&cNo hay servidores de fallback para conectarse"
 
