@@ -15,6 +15,9 @@ invalidTime: "&cTime not valid."
 'yes': "Yes"
 'no': "No"
 
+status-on: '&aenabled'
+status-off: '&cdisabled'
+
 staffchat:
   join: '{staff-prefix}&a• &f%luckperms_prefix%{player} &fjoin the network.'
   leave: '{staff-prefix}&c• &f%luckperms_prefix%{player} &fleave the network.'
