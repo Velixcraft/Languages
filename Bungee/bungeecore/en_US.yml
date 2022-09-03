@@ -15,6 +15,17 @@ invalidTime: "&cTime not valid."
 'yes': "Yes"
 'no': "No"
 
+staffchat:
+  join: '{staff-prefix}&a• &f%luckperms_prefix%{player} &fjoin the network.'
+  leave: '{staff-prefix}&c• &f%luckperms_prefix%{player} &fleave the network.'
+  toggled-reminder: '{staff-prefix}&c• &fRemember you have fast staff chat enabled. Stay alert.'
+  hided-reminder: '{staff-prefix}&c• &fRemember, you have been hide staff chat. Use &b/sc hide &fto show again.'
+  cmd:
+    toggled: '&b&lSC &e• &fYou have been %status% &fstaff chat.'
+    hide:
+      enabled: '&b&lSC &c• &fYou''ve have been hide your staff chat'
+      disabled: '&b&lSC &a• &fNow you will see staffs chat.'
+
 noServerToConnect: "&cThere's not any server to connect"
 noFallbackServer: "&cThere's not any fallback servers to connect"
 
