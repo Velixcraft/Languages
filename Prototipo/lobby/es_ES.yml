@@ -1,0 +1,101 @@
+onlyPlayers: "&cSolo los jugadores pueden usar esto."
+onlyConsole: "&cLos jugadores no pueden usar esto."
+noPermissions: "&cNo tienes permisos para hacer esto."
+blockedCommand: "&fEse comando no existe. &fUsa &b/ayuda&f para mas información."
+spawnSet: "&aEl spawn fue establecido."
+serverLoading: "&cEl servidor esta cargando."
+reloaded: "&aPlugin recargado correctamente."
+menuNotExists: "&cEl menu <menu> no existe."
+itemCooldown: "Espera <time> segundos para hacer esto otra vez."
+editMode:
+  enabled: "&aEl modo edición fue activado."
+  disabled: "&cEl modo edicicón fue desactivado."
+  
+itemsJoin:
+  servidores:
+    displayName: '&b&lSERVIDORES &7(Click Derecho)'
+    lore:
+    - '&7'
+  lobbies:
+    displayName: '&b&lLOBBIES &7(Click Derecho)'
+    lore:
+    - '&7'
+  
+joinMessages:
+  Owner:
+    message:
+    - '%luckperms_prefix%&6%player_name% &eingresó al servidor.'
+  Staff:
+    message:
+    - '%luckperms_prefix%&f%player_name% &eingresó al servidor.'
+  Vip:
+    message:
+    - '%luckperms_prefix%&a%player_name% &eingresó al servidor.'
+    
+fly:
+  enabled: "&aTu modo de vuelo ha sido activado"
+  disabled: "&cTu modo de vuelo ha sido desactivado."
+  
+scoreboard:
+  title: "&b&lPROTOTIPO &8(&7%bungee_total%&8)"
+  text: |-
+    &f
+    &b  ❙ &fLos juegos de este servidor
+    &b  ❙ &festan en desarrollo y estan
+    &b  ❙ &fen fase de prueba.
+    &f
+    &b  ❙ &fReporta errores o deja tus
+    &b  ❙ &fsugerencias en:
+    &b  ❙ &ediscord.velixplay.net
+    &f
+    &b  ❙ &fEstrellas: &b%hype_amount%&8/&b200✫
+    &b  ❙ &fConectados: &b%math_{bungee_Parkour}+{server_online}%
+    &f
+    &e  mc.velixplay.net
+
+holograms:
+  bienvenida:
+    1:
+     "&b&k::: &f&l¡Bienvenido a &b&lVELIXPLAY &f&lNETWORK! &b&k:::"
+    2:
+     "&b¡Disfruta de la aventura!"
+    3:
+     "&fConoce nuestras &5Modalidades"
+    4:
+     "&fEn este servidor disfrutarás de varios modos de juego"
+    5:
+     "&fpara divertirte con &6amigos o solo&f, puedes ayudarnos"
+    6:
+     "&fa crecer y aumentar nuestra comunidad &ainvitando a tus amigos."
+    7:
+     "&f¡El servidor tendrá &b&omás modalidades &fsi hay"
+    8:
+     "&cdonaciones suficientes &fpara mantenerlas!"
+    9:
+     "&fSi deseas ayudar con donaciones puedes adquirir"
+    10:
+     "&dun paquete de beneficios o rango &fen nuestra tienda"
+    11:
+     "&7&lTIENDA: &a&nstore.velixplay.net"
+    12:
+     "&b&lmc.velixplay.net"
+  minijuegos:
+    1:
+     "&6Conectados"
+  ventajas:
+    1:
+     "&bVentajas"
+    2:
+     "&7(Click derecho)"
+  topdonador:
+    1:
+     "&b&lTOP DONADOR"
+    2:
+     "&7store.velixplay.net"
+  mascotas:
+    1:
+     "&e* &c&lCAZADOR &e*"
+    2:
+     "&fHe cazado algunas criaturas."
+    3:
+     "&bClick para ver"
