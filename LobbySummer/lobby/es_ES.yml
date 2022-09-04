@@ -51,7 +51,7 @@ scoreboard:
     &b  ❙ &fEstrellas: &b%hype_amount%&8/&b200✫
     &b  ❙ &fConectados: &b%math_{bungee_Parkour}+{server_online}%
     &f
-    &e  mc.velixplay.net
+    &e    mc.velixplay.net
 
 holograms:
   bienvenida:
