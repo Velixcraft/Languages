@@ -37,20 +37,19 @@ fly:
   disabled: "&cTu modo de vuelo ha sido desactivado."
   
 scoreboard:
-  title: "&b&lVELIXPLAY &8(&7%bungee_total%&8)"
+  title: "&b&lPROTOTIPO &8(&7%bungee_total%&8)"
   text: |-
     &f
-    &b ❙ &fNick: &e%player_name%
-    &b ❙ &fRango: &r%luckperms_prefix%
+    &b  ❙ &fLos juegos de este servidor
+    &b  ❙ &festan en desarrollo y estan
+    &b  ❙ &fen fase de prueba.
     &f
-    &b ❙ &fVCoins: &60⛁
-    &b ❙ &fPelotas: &b0/25
+    &b  ❙ &fReporta errores o deja tus
+    &b  ❙ &fsugerencias en:'
+    &b  ❙ &ediscord.velixplay.net'
     &f
-    &b ❙ &fNivel: 1
-    &b ❙ &7[■■■■■■■■■■] &80
-    &f
-    &b ❙ &fLobby: &b#1
-    &b ❙ &fGlobal: &b%bungee_total%/100
+    &b  ❙ &fEstrellas: &b%hype_amount%&8/&b200✫
+    &b  ❙ &fConectados: &b%math_{bungee_Parkour}+{server_online}%
     &f
     &emc.velixplay.net
 
