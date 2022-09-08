@@ -49,6 +49,6 @@ scoreboard:
     &b ❙ &7[■■■■■■■■■■] &80
     &f
     &b ❙ &fLobby: &b#1
-    &b ❙ &fGlobal: &b%bungee_total%/100
+    &b ❙ &fGlobal: &b%bungee_total%/500
     &f
     &emc.velixplay.net
